@@ -5,17 +5,17 @@ from .bits import BitPerformance
 
 from .mechanics import MechanicalSpecificEnergy
 
-from .hydraulics import HydraulicHorsepower
+from .hydraulics import (
+    HydraulicHorsepower,
+    HydraulicHorsepowerPerSquareInch,
+    PressureLossCalculator,
+    EquivalentCirculatingDensity,
+    SurgeSwabAnalysis,
+    BottomHolePressure,
+    PressureWindowAnalyzer,
+)
 
-from .hydraulics import HydraulicHorsepowerPerSquareInch
-
-from .hydraulics import JetImpactForce
-
-from .hydraulics import PressureLossCalculator
-
-from .hydraulics import EquivalentCirculatingDensity
-
-from .hydraulics import SurgeSwabAnalysis
+from .optimization import TripSpeedOptimizer
 
 
 __all__ = [
@@ -24,12 +24,15 @@ __all__ = [
     "DrillingKPI",
     "BitPerformance",
     "MechanicalSpecificEnergy",
+
     "HydraulicHorsepower",
     "HydraulicHorsepowerPerSquareInch",
-    "JetImpactForce",
     "PressureLossCalculator",
     "EquivalentCirculatingDensity",
     "SurgeSwabAnalysis",
+    "BottomHolePressure",
+    "PressureWindowAnalyzer",
 
+    "TripSpeedOptimizer",
 
 ]
