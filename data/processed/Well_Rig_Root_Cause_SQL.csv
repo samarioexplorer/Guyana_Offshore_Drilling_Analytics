@@ -1,0 +1,517 @@
+Well_ID,Rig_ID,NPT_Category,NPT_Subcategory,NPT_Events,NPT_Hours,NPT_Cost_USD,Low_Events,Medium_Events,High_Events,Severity_Weighted_Events,Deferred_Production_USD,Total_Impact_USD,Severity_Index,Impact_Factor,Hotspot_Score,Well_Name,Operator,Block,Rig_Name,Rig_Type,Contractor
+W002,R001,Mechanical,Generator Failure,3,32.0,633333.0,1,1,1,6.0,0.0,633333.0,2.0,5.333330526315789,341.3331536842105,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W003,R004,Mechanical,Top Drive Failure,2,30.0,612500.0,0,1,1,5.0,0.0,612500.0,2.5,5.157894736842105,386.8421052631579,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Mechanical,Top Drive Failure,2,30.0,612500.0,0,1,1,5.0,0.0,612500.0,2.5,5.157894736842105,386.8421052631579,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Weather,High Waves,4,30.0,612499.0,1,3,0,7.0,0.0,612499.0,1.75,5.157886315789474,270.7890315789474,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W035,R003,Weather,High Waves,3,30.0,600000.0,0,2,1,7.0,0.0,600000.0,2.3333333333333335,5.052631578947368,353.6842105263158,ATL-035,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W009,R001,Drilling,Lost Circulation,2,30.0,593750.0,0,1,1,5.0,0.0,593750.0,2.5,5.0,375.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W028,R002,Drilling,Stuck Pipe,2,30.0,575000.0,0,1,1,5.0,0.0,575000.0,2.5,4.842105263157895,363.1578947368421,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W045,R004,Logistics,Fuel Supply Delay,2,26.0,530833.0,1,0,1,4.0,0.0,530833.0,2.0,4.470172631578947,232.44897684210525,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W021,R002,Logistics,Waiting on Cement,3,26.0,498333.0,1,1,1,6.0,0.0,498333.0,2.0,4.196488421052631,218.21739789473685,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Mechanical,BOP Repair,2,26.0,498333.0,1,0,1,4.0,0.0,498333.0,2.0,4.196488421052631,218.21739789473685,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W018,R004,Logistics,Fuel Supply Delay,1,24.0,490000.0,0,0,1,3.0,0.0,490000.0,3.0,4.126315789473685,297.0947368421053,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Weather,Heavy Rain,1,24.0,490000.0,0,0,1,3.0,0.0,490000.0,3.0,4.126315789473685,297.0947368421053,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W050,R004,Drilling,Stuck Pipe,3,24.0,489999.0,1,2,0,5.0,0.0,489999.0,1.6666666666666667,4.1263073684210525,165.0522947368421,ATL-050,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W019,R003,Weather,Lightning,1,24.0,480000.0,0,0,1,3.0,0.0,480000.0,3.0,4.042105263157895,291.0315789473684,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W035,R003,Drilling,Bit Failure,3,24.0,480000.0,0,3,0,6.0,0.0,480000.0,2.0,4.042105263157895,194.02105263157895,ATL-035,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Weather,Poor Visibility,2,24.0,480000.0,0,1,1,5.0,0.0,480000.0,2.5,4.042105263157895,242.5263157894737,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W010,R002,Weather,Heavy Rain,1,24.0,460000.0,0,0,1,3.0,0.0,460000.0,3.0,3.873684210526316,278.90526315789475,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W037,R002,Logistics,Delayed Helicopter,1,24.0,460000.0,0,0,1,3.0,0.0,460000.0,3.0,3.873684210526316,278.90526315789475,ATL-037,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W032,R004,Weather,Lightning,2,22.0,449166.0,1,0,1,4.0,0.0,449166.0,2.0,3.7824505263157895,166.42782315789475,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W013,R003,Drilling,Lost Circulation,4,22.0,440000.0,2,2,0,6.0,0.0,440000.0,1.5,3.705263157894737,122.27368421052631,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Drilling,Stuck Pipe,3,22.0,440000.0,1,2,0,5.0,0.0,440000.0,1.6666666666666667,3.705263157894737,135.85964912280704,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W007,R001,Logistics,Fuel Supply Delay,2,22.0,435416.0,1,0,1,4.0,0.0,435416.0,2.0,3.666661052631579,161.33308631578947,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W030,R002,Mechanical,Power System Failure,3,22.0,421666.0,1,2,0,5.0,0.0,421666.0,1.6666666666666667,3.5508715789473686,130.19862456140353,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Mechanical,Draw Works Failure,2,22.0,421666.0,1,0,1,4.0,0.0,421666.0,2.0,3.5508715789473686,156.23834947368422,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Drilling,Hole Cleaning,3,22.0,421666.0,2,0,1,5.0,0.0,421666.0,1.6666666666666667,3.5508715789473686,130.19862456140353,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Drilling,Stuck Pipe,4,22.0,421665.0,3,1,0,5.0,0.0,421665.0,1.25,3.550863157894737,97.64873684210527,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Mechanical,Top Drive Failure,4,22.0,421665.0,2,2,0,6.0,0.0,421665.0,1.5,3.550863157894737,117.17848421052632,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W011,R004,Drilling,Hole Cleaning,2,20.0,408333.0,0,2,0,4.0,0.0,408333.0,2.0,3.4385936842105265,137.54374736842107,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W020,R003,Mechanical,BOP Repair,2,20.0,400000.0,1,0,1,4.0,0.0,400000.0,2.0,3.3684210526315788,134.73684210526315,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W022,R001,Weather,Poor Visibility,3,20.0,395833.0,1,2,0,5.0,0.0,395833.0,1.6666666666666667,3.3333305263157893,111.11101754385965,ATL-022,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W010,R002,Weather,Lightning,2,20.0,383333.0,1,0,1,4.0,0.0,383333.0,2.0,3.2280673684210526,129.1226947368421,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Mechanical,Power System Failure,3,20.0,383333.0,1,2,0,5.0,0.0,383333.0,1.6666666666666667,3.2280673684210526,107.6022456140351,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W003,R004,Drilling,Hole Cleaning,1,18.0,367500.0,0,0,1,3.0,0.0,367500.0,3.0,3.094736842105263,167.1157894736842,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Drilling,Bit Failure,1,18.0,367500.0,0,0,1,3.0,0.0,367500.0,3.0,3.094736842105263,167.1157894736842,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Logistics,Waiting on Boat,2,18.0,367500.0,0,2,0,4.0,0.0,367500.0,2.0,3.094736842105263,111.41052631578947,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Personnel,Crew Change,1,18.0,367500.0,0,0,1,3.0,0.0,367500.0,3.0,3.094736842105263,167.1157894736842,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Personnel,Safety Stand Down,1,18.0,367500.0,0,0,1,3.0,0.0,367500.0,3.0,3.094736842105263,167.1157894736842,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W042,R004,Weather,Poor Visibility,1,18.0,367500.0,0,0,1,3.0,0.0,367500.0,3.0,3.094736842105263,167.1157894736842,ATL-042,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W045,R004,Weather,Poor Visibility,1,18.0,367500.0,0,0,1,3.0,0.0,367500.0,3.0,3.094736842105263,167.1157894736842,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Personnel,Crew Change,1,18.0,367500.0,0,0,1,3.0,0.0,367500.0,3.0,3.094736842105263,167.1157894736842,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W050,R004,Logistics,Waiting on Cement,2,18.0,367500.0,0,2,0,4.0,0.0,367500.0,2.0,3.094736842105263,111.41052631578947,ATL-050,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W015,R003,Logistics,Delayed Helicopter,1,18.0,360000.0,0,0,1,3.0,0.0,360000.0,3.0,3.031578947368421,163.70526315789473,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Drilling,Well Control,1,18.0,360000.0,0,0,1,3.0,0.0,360000.0,3.0,3.031578947368421,163.70526315789473,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W035,R003,Drilling,Stuck Pipe,1,18.0,360000.0,0,0,1,3.0,0.0,360000.0,3.0,3.031578947368421,163.70526315789473,ATL-035,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W049,R003,Drilling,Hole Cleaning,1,18.0,360000.0,0,0,1,3.0,0.0,360000.0,3.0,3.031578947368421,163.70526315789473,ATL-049,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W007,R001,Drilling,Well Control,1,18.0,356250.0,0,0,1,3.0,0.0,356250.0,3.0,3.0,162.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Mechanical,Mud Pump Failure,1,18.0,356250.0,0,0,1,3.0,0.0,356250.0,3.0,3.0,162.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Mechanical,Top Drive Failure,1,18.0,356250.0,0,0,1,3.0,0.0,356250.0,3.0,3.0,162.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W022,R001,Drilling,Hole Cleaning,2,18.0,356250.0,0,2,0,4.0,0.0,356250.0,2.0,3.0,108.0,ATL-022,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Drilling,Fishing Operation,1,18.0,356250.0,0,0,1,3.0,0.0,356250.0,3.0,3.0,162.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Mechanical,Mud Pump Failure,1,18.0,356250.0,0,0,1,3.0,0.0,356250.0,3.0,3.0,162.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W006,R002,Drilling,Bit Failure,1,18.0,345000.0,0,0,1,3.0,0.0,345000.0,3.0,2.905263157894737,156.8842105263158,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W027,R002,Drilling,Fishing Operation,1,18.0,345000.0,0,0,1,3.0,0.0,345000.0,3.0,2.905263157894737,156.8842105263158,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Mechanical,Power System Failure,1,18.0,345000.0,0,0,1,3.0,0.0,345000.0,3.0,2.905263157894737,156.8842105263158,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Weather,Lightning,2,18.0,345000.0,0,2,0,4.0,0.0,345000.0,2.0,2.905263157894737,104.58947368421053,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Mechanical,Generator Failure,1,18.0,345000.0,0,0,1,3.0,0.0,345000.0,3.0,2.905263157894737,156.8842105263158,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Weather,Poor Visibility,2,18.0,345000.0,0,2,0,4.0,0.0,345000.0,2.0,2.905263157894737,104.58947368421053,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Logistics,Delayed Helicopter,2,18.0,345000.0,0,2,0,4.0,0.0,345000.0,2.0,2.905263157894737,104.58947368421053,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Mechanical,Mud Pump Failure,1,18.0,345000.0,0,0,1,3.0,0.0,345000.0,3.0,2.905263157894737,156.8842105263158,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Mechanical,Rotary Table Failure,1,18.0,345000.0,0,0,1,3.0,0.0,345000.0,3.0,2.905263157894737,156.8842105263158,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W032,R004,Mechanical,Draw Works Failure,2,16.0,326666.0,0,2,0,4.0,0.0,326666.0,2.0,2.7508715789473683,88.02789052631579,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W046,R003,Drilling,Fishing Operation,2,16.0,320000.0,0,2,0,4.0,0.0,320000.0,2.0,2.694736842105263,86.23157894736842,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W027,R002,Weather,Lightning,2,16.0,306666.0,1,1,0,3.0,0.0,306666.0,1.5,2.5824505263157893,61.97881263157895,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Mechanical,BOP Repair,2,16.0,306666.0,0,2,0,4.0,0.0,306666.0,2.0,2.5824505263157893,82.63841684210526,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Drilling,Lost Circulation,3,16.0,306666.0,1,2,0,5.0,0.0,306666.0,1.6666666666666667,2.5824505263157893,68.86534736842106,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W037,R002,Drilling,Stuck Pipe,2,16.0,306666.0,1,1,0,3.0,0.0,306666.0,1.5,2.5824505263157893,61.97881263157895,ATL-037,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W032,R004,Weather,Heavy Rain,2,14.0,285833.0,0,2,0,4.0,0.0,285833.0,2.0,2.4070147368421053,67.39641263157895,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Mechanical,Rotary Table Failure,2,14.0,285833.0,0,2,0,4.0,0.0,285833.0,2.0,2.4070147368421053,67.39641263157895,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W045,R004,Weather,Heavy Rain,2,14.0,285833.0,1,1,0,3.0,0.0,285833.0,1.5,2.4070147368421053,50.54730947368421,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Weather,Lightning,3,14.0,285832.0,2,1,0,4.0,0.0,285832.0,1.3333333333333333,2.4070063157894737,44.930784561403506,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W020,R003,Mechanical,Rotary Table Failure,3,14.0,280000.0,2,1,0,4.0,0.0,280000.0,1.3333333333333333,2.357894736842105,44.014035087719286,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W049,R003,Drilling,Fishing Operation,2,14.0,280000.0,0,2,0,4.0,0.0,280000.0,2.0,2.357894736842105,66.02105263157894,ATL-049,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W007,R001,Weather,Lightning,2,14.0,277083.0,0,2,0,4.0,0.0,277083.0,2.0,2.3333305263157893,65.3332547368421,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W022,R001,Logistics,Waiting on Materials,2,14.0,277083.0,0,2,0,4.0,0.0,277083.0,2.0,2.3333305263157893,65.3332547368421,ATL-022,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W033,R002,Mechanical,Rotary Table Failure,2,14.0,268333.0,1,1,0,3.0,0.0,268333.0,1.5,2.2596463157894737,47.452572631578946,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Weather,Heavy Rain,2,14.0,268333.0,1,1,0,3.0,0.0,268333.0,1.5,2.2596463157894737,47.452572631578946,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Weather,Heavy Rain,2,14.0,268333.0,0,2,0,4.0,0.0,268333.0,2.0,2.2596463157894737,63.27009684210526,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W011,R004,Drilling,Bit Failure,1,12.0,245000.0,0,1,0,2.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Drilling,Stuck Pipe,1,12.0,245000.0,0,1,0,2.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Drilling,Stuck Pipe,1,12.0,245000.0,0,1,0,2.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Weather,Poor Visibility,2,12.0,245000.0,0,2,0,4.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Weather,Lightning,1,12.0,245000.0,0,1,0,2.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Drilling,Lost Circulation,1,12.0,245000.0,0,1,0,2.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Drilling,Stuck Pipe,2,12.0,245000.0,0,2,0,4.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Weather,High Waves,1,12.0,245000.0,0,1,0,2.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W032,R004,Logistics,Fuel Supply Delay,2,12.0,245000.0,0,2,0,4.0,0.0,245000.0,2.0,2.0631578947368423,49.515789473684215,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W003,R004,Mechanical,Power System Failure,3,12.0,244999.0,2,1,0,4.0,0.0,244999.0,1.3333333333333333,2.0631494736842106,33.01039157894737,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Mechanical,Draw Works Failure,3,12.0,244999.0,2,1,0,4.0,0.0,244999.0,1.3333333333333333,2.0631494736842106,33.01039157894737,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W013,R003,Drilling,Fishing Operation,2,12.0,240000.0,1,1,0,3.0,0.0,240000.0,1.5,2.0210526315789474,36.37894736842105,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Logistics,Waiting on Cement,1,12.0,240000.0,0,1,0,2.0,0.0,240000.0,2.0,2.0210526315789474,48.50526315789474,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Mechanical,Top Drive Failure,1,12.0,240000.0,0,1,0,2.0,0.0,240000.0,2.0,2.0210526315789474,48.50526315789474,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W035,R003,Weather,Strong Wind,1,12.0,240000.0,0,1,0,2.0,0.0,240000.0,2.0,2.0210526315789474,48.50526315789474,ATL-035,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Logistics,Waiting on Materials,1,12.0,240000.0,0,1,0,2.0,0.0,240000.0,2.0,2.0210526315789474,48.50526315789474,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Weather,Heavy Rain,1,12.0,240000.0,0,1,0,2.0,0.0,240000.0,2.0,2.0210526315789474,48.50526315789474,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W002,R001,Drilling,Bit Failure,2,12.0,237500.0,0,2,0,4.0,0.0,237500.0,2.0,2.0,48.0,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Logistics,Waiting on Cement,1,12.0,237500.0,0,1,0,2.0,0.0,237500.0,2.0,2.0,48.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Drilling,Hole Cleaning,2,12.0,237499.0,1,1,0,3.0,0.0,237499.0,1.5,1.9999915789473683,35.99984842105263,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Weather,Heavy Rain,2,12.0,237499.0,1,1,0,3.0,0.0,237499.0,1.5,1.9999915789473683,35.99984842105263,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W004,R002,Drilling,Stuck Pipe,1,12.0,230000.0,0,1,0,2.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W004,R002,Mechanical,Power System Failure,1,12.0,230000.0,0,1,0,2.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Logistics,Waiting on Materials,1,12.0,230000.0,0,1,0,2.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Logistics,Waiting on Cement,2,12.0,230000.0,0,2,0,4.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Weather,High Waves,1,12.0,230000.0,0,1,0,2.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Logistics,Delayed Helicopter,1,12.0,230000.0,0,1,0,2.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Mechanical,BOP Repair,1,12.0,230000.0,0,1,0,2.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Drilling,Fishing Operation,1,12.0,230000.0,0,1,0,2.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Drilling,Stuck Pipe,2,12.0,230000.0,0,2,0,4.0,0.0,230000.0,2.0,1.936842105263158,46.48421052631579,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W004,R002,Weather,Lightning,3,12.0,229999.0,2,1,0,4.0,0.0,229999.0,1.3333333333333333,1.9368336842105263,30.98933894736842,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Logistics,Waiting on Cement,2,12.0,229999.0,1,1,0,3.0,0.0,229999.0,1.5,1.9368336842105263,34.86300631578947,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Mechanical,Rotary Table Failure,2,12.0,229999.0,1,1,0,3.0,0.0,229999.0,1.5,1.9368336842105263,34.86300631578947,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Weather,Strong Wind,3,12.0,229999.0,2,1,0,4.0,0.0,229999.0,1.3333333333333333,1.9368336842105263,30.98933894736842,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Weather,Poor Visibility,2,12.0,229999.0,1,1,0,3.0,0.0,229999.0,1.5,1.9368336842105263,34.86300631578947,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W037,R002,Weather,Poor Visibility,2,12.0,229999.0,1,1,0,3.0,0.0,229999.0,1.5,1.9368336842105263,34.86300631578947,ATL-037,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Drilling,Bit Failure,2,12.0,229999.0,1,1,0,3.0,0.0,229999.0,1.5,1.9368336842105263,34.86300631578947,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W001,R004,Weather,Lightning,2,10.0,204166.0,1,1,0,3.0,0.0,204166.0,1.5,1.7192926315789474,25.78938947368421,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Drilling,Well Control,2,10.0,204166.0,1,1,0,3.0,0.0,204166.0,1.5,1.7192926315789474,25.78938947368421,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Mechanical,Mud Pump Failure,2,10.0,204166.0,1,1,0,3.0,0.0,204166.0,1.5,1.7192926315789474,25.78938947368421,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Drilling,Lost Circulation,2,10.0,204166.0,1,1,0,3.0,0.0,204166.0,1.5,1.7192926315789474,25.78938947368421,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W050,R004,Weather,High Waves,2,10.0,204166.0,1,1,0,3.0,0.0,204166.0,1.5,1.7192926315789474,25.78938947368421,ATL-050,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W003,R004,Logistics,Waiting on Boat,3,10.0,204165.0,3,0,0,3.0,0.0,204165.0,1.0,1.7192842105263157,17.192842105263157,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Weather,Heavy Rain,3,10.0,204165.0,3,0,0,3.0,0.0,204165.0,1.0,1.7192842105263157,17.192842105263157,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W013,R003,Personnel,Safety Stand Down,2,10.0,200000.0,1,1,0,3.0,0.0,200000.0,1.5,1.6842105263157894,25.263157894736842,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W013,R003,Weather,Heavy Rain,2,10.0,200000.0,1,1,0,3.0,0.0,200000.0,1.5,1.6842105263157894,25.263157894736842,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Logistics,Waiting on Cement,2,10.0,200000.0,1,1,0,3.0,0.0,200000.0,1.5,1.6842105263157894,25.263157894736842,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Mechanical,Top Drive Failure,2,10.0,200000.0,1,1,0,3.0,0.0,200000.0,1.5,1.6842105263157894,25.263157894736842,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Weather,Poor Visibility,2,10.0,200000.0,1,1,0,3.0,0.0,200000.0,1.5,1.6842105263157894,25.263157894736842,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W002,R001,Drilling,Hole Cleaning,2,10.0,197916.0,1,1,0,3.0,0.0,197916.0,1.5,1.666661052631579,24.999915789473686,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W002,R001,Logistics,Fuel Supply Delay,2,10.0,197916.0,1,1,0,3.0,0.0,197916.0,1.5,1.666661052631579,24.999915789473686,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Mechanical,Top Drive Failure,2,10.0,197916.0,1,1,0,3.0,0.0,197916.0,1.5,1.666661052631579,24.999915789473686,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W022,R001,Weather,Strong Wind,3,10.0,197915.0,3,0,0,3.0,0.0,197915.0,1.0,1.6666526315789474,16.666526315789476,ATL-022,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W008,R002,Drilling,Bit Failure,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Drilling,Lost Circulation,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Weather,Strong Wind,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Mechanical,BOP Repair,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W027,R002,Drilling,Stuck Pipe,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Mechanical,Top Drive Failure,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Mechanical,Generator Failure,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Drilling,Hole Cleaning,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Drilling,Hole Cleaning,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Logistics,Waiting on Materials,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Drilling,Stuck Pipe,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Weather,High Waves,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Drilling,Bit Failure,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Mechanical,Power System Failure,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Weather,Lightning,2,10.0,191666.0,1,1,0,3.0,0.0,191666.0,1.5,1.6140294736842105,24.210442105263155,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W001,R004,Logistics,Fuel Supply Delay,2,8.0,163333.0,1,1,0,3.0,0.0,163333.0,1.5,1.3754357894736842,16.50522947368421,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Mechanical,Generator Failure,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Weather,Strong Wind,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Drilling,Hole Cleaning,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Weather,High Waves,2,8.0,163333.0,1,1,0,3.0,0.0,163333.0,1.5,1.3754357894736842,16.50522947368421,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Drilling,Bit Failure,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Drilling,Lost Circulation,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W042,R004,Drilling,Fishing Operation,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-042,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W042,R004,Weather,Lightning,2,8.0,163333.0,1,1,0,3.0,0.0,163333.0,1.5,1.3754357894736842,16.50522947368421,ATL-042,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W045,R004,Drilling,Lost Circulation,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Drilling,Hole Cleaning,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Mechanical,BOP Repair,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Mechanical,Power System Failure,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W050,R004,Drilling,Lost Circulation,1,8.0,163333.0,0,1,0,2.0,0.0,163333.0,2.0,1.3754357894736842,22.006972631578947,ATL-050,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Weather,Poor Visibility,2,8.0,163332.0,2,0,0,2.0,0.0,163332.0,1.0,1.3754273684210527,11.003418947368422,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Mechanical,Draw Works Failure,2,8.0,163332.0,2,0,0,2.0,0.0,163332.0,1.0,1.3754273684210527,11.003418947368422,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Drilling,Hole Cleaning,2,8.0,163332.0,2,0,0,2.0,0.0,163332.0,1.0,1.3754273684210527,11.003418947368422,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W013,R003,Weather,Strong Wind,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Drilling,Lost Circulation,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Mechanical,Generator Failure,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Drilling,Lost Circulation,3,8.0,160000.0,3,0,0,3.0,0.0,160000.0,1.0,1.3473684210526315,10.778947368421052,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Logistics,Fuel Supply Delay,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Weather,High Waves,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Drilling,Lost Circulation,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Weather,High Waves,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Mechanical,Draw Works Failure,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Mechanical,Mud Pump Failure,1,8.0,160000.0,0,1,0,2.0,0.0,160000.0,2.0,1.3473684210526315,21.557894736842105,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W049,R003,Logistics,Waiting on Boat,2,8.0,160000.0,2,0,0,2.0,0.0,160000.0,1.0,1.3473684210526315,10.778947368421052,ATL-049,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W002,R001,Mechanical,Draw Works Failure,1,8.0,158333.0,0,1,0,2.0,0.0,158333.0,2.0,1.3333305263157895,21.333288421052632,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Mechanical,BOP Repair,1,8.0,158333.0,0,1,0,2.0,0.0,158333.0,2.0,1.3333305263157895,21.333288421052632,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Logistics,Fuel Supply Delay,1,8.0,158333.0,0,1,0,2.0,0.0,158333.0,2.0,1.3333305263157895,21.333288421052632,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W022,R001,Mechanical,Draw Works Failure,1,8.0,158333.0,0,1,0,2.0,0.0,158333.0,2.0,1.3333305263157895,21.333288421052632,ATL-022,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Weather,High Waves,1,8.0,158333.0,0,1,0,2.0,0.0,158333.0,2.0,1.3333305263157895,21.333288421052632,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W005,R002,Mechanical,BOP Repair,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Personnel,Medical Evacuation,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Weather,Strong Wind,2,8.0,153333.0,1,1,0,3.0,0.0,153333.0,1.5,1.2912252631578947,15.494703157894737,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Mechanical,Draw Works Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Mechanical,Mud Pump Failure,2,8.0,153333.0,1,1,0,3.0,0.0,153333.0,1.5,1.2912252631578947,15.494703157894737,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Mechanical,Top Drive Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Drilling,Lost Circulation,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Drilling,Hole Cleaning,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Mechanical,Generator Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Logistics,Waiting on Materials,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Mechanical,Draw Works Failure,2,8.0,153333.0,1,1,0,3.0,0.0,153333.0,1.5,1.2912252631578947,15.494703157894737,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Mechanical,Power System Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W027,R002,Drilling,Bit Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Mechanical,Power System Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Drilling,Lost Circulation,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Mechanical,Draw Works Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Mechanical,Mud Pump Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Weather,Heavy Rain,2,8.0,153333.0,1,1,0,3.0,0.0,153333.0,1.5,1.2912252631578947,15.494703157894737,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Personnel,Safety Stand Down,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Weather,Strong Wind,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Drilling,Stuck Pipe,2,8.0,153333.0,1,1,0,3.0,0.0,153333.0,1.5,1.2912252631578947,15.494703157894737,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W037,R002,Drilling,Bit Failure,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-037,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Logistics,Delayed Helicopter,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Drilling,Fishing Operation,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Logistics,Fuel Supply Delay,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Drilling,Lost Circulation,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Mechanical,Draw Works Failure,2,8.0,153333.0,1,1,0,3.0,0.0,153333.0,1.5,1.2912252631578947,15.494703157894737,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Drilling,Hole Cleaning,1,8.0,153333.0,0,1,0,2.0,0.0,153333.0,2.0,1.2912252631578947,20.659604210526314,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Logistics,Delayed Helicopter,2,8.0,153332.0,2,0,0,2.0,0.0,153332.0,1.0,1.2912168421052632,10.329734736842106,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W001,R004,Drilling,Well Control,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Mechanical,Top Drive Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W003,R004,Mechanical,BOP Repair,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W003,R004,Personnel,Safety Stand Down,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Personnel,Training,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Mechanical,Power System Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Mechanical,Top Drive Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Drilling,Fishing Operation,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Logistics,Waiting on Cement,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Mechanical,Top Drive Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Weather,Lightning,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Mechanical,Top Drive Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Logistics,Waiting on Boat,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Personnel,Medical Evacuation,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Drilling,Bit Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Logistics,Waiting on Boat,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W032,R004,Mechanical,Rotary Table Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Drilling,Well Control,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Mechanical,BOP Repair,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Weather,Lightning,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W042,R004,Mechanical,Rotary Table Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-042,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W042,R004,Mechanical,Top Drive Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-042,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W045,R004,Logistics,Waiting on Materials,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Drilling,Well Control,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W050,R004,Mechanical,Power System Failure,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-050,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W050,R004,Personnel,Medical Evacuation,1,6.0,122500.0,0,1,0,2.0,0.0,122500.0,2.0,1.0315789473684212,12.378947368421054,ATL-050,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Drilling,Lost Circulation,2,6.0,122499.0,2,0,0,2.0,0.0,122499.0,1.0,1.0315705263157895,6.189423157894737,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Weather,Heavy Rain,2,6.0,122499.0,2,0,0,2.0,0.0,122499.0,1.0,1.0315705263157895,6.189423157894737,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W032,R004,Weather,High Waves,2,6.0,122499.0,2,0,0,2.0,0.0,122499.0,1.0,1.0315705263157895,6.189423157894737,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Weather,High Waves,2,6.0,122499.0,2,0,0,2.0,0.0,122499.0,1.0,1.0315705263157895,6.189423157894737,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W013,R003,Drilling,Hole Cleaning,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W013,R003,Drilling,Stuck Pipe,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W013,R003,Logistics,Waiting on Cement,2,6.0,120000.0,2,0,0,2.0,0.0,120000.0,1.0,1.0105263157894737,6.063157894736842,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W013,R003,Weather,Lightning,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Drilling,Fishing Operation,2,6.0,120000.0,2,0,0,2.0,0.0,120000.0,1.0,1.0105263157894737,6.063157894736842,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Drilling,Hole Cleaning,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Mechanical,BOP Repair,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Logistics,Delayed Helicopter,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Drilling,Fishing Operation,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Drilling,Lost Circulation,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Logistics,Fuel Supply Delay,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Drilling,Hole Cleaning,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Logistics,Fuel Supply Delay,2,6.0,120000.0,2,0,0,2.0,0.0,120000.0,1.0,1.0105263157894737,6.063157894736842,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Logistics,Fuel Supply Delay,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Weather,Strong Wind,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W049,R003,Logistics,Fuel Supply Delay,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-049,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W049,R003,Mechanical,Top Drive Failure,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-049,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W049,R003,Weather,Heavy Rain,1,6.0,120000.0,0,1,0,2.0,0.0,120000.0,2.0,1.0105263157894737,12.126315789473685,ATL-049,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W002,R001,Drilling,Stuck Pipe,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W002,R001,Mechanical,Mud Pump Failure,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Mechanical,Draw Works Failure,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Logistics,Fuel Supply Delay,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Mechanical,Rotary Table Failure,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Weather,Lightning,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Weather,Strong Wind,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Drilling,Bit Failure,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Logistics,Waiting on Cement,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Mechanical,Draw Works Failure,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Mechanical,Top Drive Failure,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Personnel,Safety Stand Down,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Weather,Strong Wind,1,6.0,118750.0,0,1,0,2.0,0.0,118750.0,2.0,1.0,12.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Mechanical,Top Drive Failure,2,6.0,118749.0,2,0,0,2.0,0.0,118749.0,1.0,0.9999915789473685,6.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W005,R002,Mechanical,Power System Failure,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Mechanical,Top Drive Failure,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Weather,Heavy Rain,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Mechanical,Rotary Table Failure,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Drilling,Fishing Operation,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Drilling,Lost Circulation,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Drilling,Well Control,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Mechanical,Mud Pump Failure,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Weather,Strong Wind,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Drilling,Lost Circulation,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W027,R002,Logistics,Waiting on Materials,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Drilling,Lost Circulation,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Weather,High Waves,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Logistics,Waiting on Materials,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Personnel,Crew Change,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Weather,Poor Visibility,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Drilling,Well Control,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Drilling,Fishing Operation,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Drilling,Well Control,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Weather,Strong Wind,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Mechanical,Mud Pump Failure,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Logistics,Waiting on Cement,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Weather,Poor Visibility,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Drilling,Lost Circulation,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Drilling,Stuck Pipe,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Mechanical,Mud Pump Failure,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Weather,High Waves,1,6.0,115000.0,0,1,0,2.0,0.0,115000.0,2.0,0.968421052631579,12.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Drilling,Hole Cleaning,2,6.0,114999.0,2,0,0,2.0,0.0,114999.0,1.0,0.9684126315789474,6.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Drilling,Stuck Pipe,2,6.0,114999.0,2,0,0,2.0,0.0,114999.0,1.0,0.9684126315789474,6.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Drilling,Well Control,2,6.0,114999.0,2,0,0,2.0,0.0,114999.0,1.0,0.9684126315789474,6.0,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Drilling,Well Control,2,6.0,114999.0,2,0,0,2.0,0.0,114999.0,1.0,0.9684126315789474,6.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W001,R004,Drilling,Fishing Operation,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Drilling,Hole Cleaning,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Logistics,Delayed Helicopter,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Logistics,Waiting on Materials,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Mechanical,Rotary Table Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W003,R004,Weather,Strong Wind,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Logistics,Fuel Supply Delay,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Drilling,Fishing Operation,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Mechanical,Rotary Table Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Logistics,Waiting on Cement,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Mechanical,Draw Works Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Mechanical,Power System Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Mechanical,Rotary Table Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Logistics,Waiting on Boat,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Weather,Poor Visibility,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Drilling,Fishing Operation,2,4.0,81666.0,2,0,0,2.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Drilling,Well Control,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Mechanical,Generator Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W018,R004,Weather,Strong Wind,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-018,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Drilling,Fishing Operation,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Mechanical,Top Drive Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Personnel,Safety Stand Down,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Drilling,Well Control,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Mechanical,BOP Repair,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Weather,Heavy Rain,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Drilling,Stuck Pipe,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Mechanical,Mud Pump Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W032,R004,Personnel,Safety Stand Down,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Mechanical,Power System Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Weather,Heavy Rain,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W042,R004,Drilling,Lost Circulation,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-042,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W045,R004,Mechanical,BOP Repair,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Drilling,Fishing Operation,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Mechanical,Draw Works Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Mechanical,Mud Pump Failure,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Weather,Heavy Rain,1,4.0,81666.0,1,0,0,1.0,0.0,81666.0,1.0,0.6877136842105264,4.0,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W013,R003,Mechanical,BOP Repair,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Drilling,Stuck Pipe,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Drilling,Well Control,2,4.0,80000.0,2,0,0,2.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Logistics,Fuel Supply Delay,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W019,R003,Drilling,Hole Cleaning,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-019,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Drilling,Bit Failure,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Drilling,Hole Cleaning,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Mechanical,Mud Pump Failure,2,4.0,80000.0,2,0,0,2.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Mechanical,Power System Failure,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Weather,Heavy Rain,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W035,R003,Drilling,Well Control,2,4.0,80000.0,2,0,0,2.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-035,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Drilling,Well Control,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Logistics,Delayed Helicopter,2,4.0,80000.0,2,0,0,2.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Drilling,Hole Cleaning,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Drilling,Stuck Pipe,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Logistics,Delayed Helicopter,1,4.0,80000.0,1,0,0,1.0,0.0,80000.0,1.0,0.6736842105263158,4.0,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W002,R001,Weather,Poor Visibility,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-002,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Mechanical,Generator Failure,2,4.0,79166.0,2,0,0,2.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Weather,Strong Wind,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Drilling,Bit Failure,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Mechanical,Draw Works Failure,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Drilling,Fishing Operation,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Drilling,Bit Failure,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Logistics,Waiting on Materials,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Mechanical,Draw Works Failure,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Mechanical,Rotary Table Failure,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Weather,Poor Visibility,1,4.0,79166.0,1,0,0,1.0,0.0,79166.0,1.0,0.6666610526315789,4.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W004,R002,Drilling,Lost Circulation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W004,R002,Weather,Heavy Rain,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Drilling,Hole Cleaning,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Drilling,Stuck Pipe,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Logistics,Delayed Helicopter,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Logistics,Waiting on Materials,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Weather,Lightning,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Drilling,Fishing Operation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Logistics,Waiting on Materials,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Weather,High Waves,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Mechanical,BOP Repair,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Weather,Poor Visibility,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Drilling,Stuck Pipe,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Drilling,Well Control,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Mechanical,BOP Repair,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Drilling,Well Control,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Weather,Poor Visibility,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W027,R002,Mechanical,Generator Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Drilling,Fishing Operation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Logistics,Delayed Helicopter,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Personnel,Crew Change,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Weather,Lightning,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Drilling,Well Control,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Mechanical,Top Drive Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Weather,Strong Wind,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Drilling,Fishing Operation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Mechanical,Top Drive Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Drilling,Bit Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Drilling,Lost Circulation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Logistics,Waiting on Materials,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Mechanical,Top Drive Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Personnel,Safety Stand Down,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Weather,High Waves,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W031,R002,Weather,Poor Visibility,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-031,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Drilling,Lost Circulation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Logistics,Fuel Supply Delay,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Drilling,Bit Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Logistics,Delayed Helicopter,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Mechanical,BOP Repair,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Mechanical,Generator Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W037,R002,Drilling,Fishing Operation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-037,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W037,R002,Mechanical,Generator Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-037,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W037,R002,Mechanical,Top Drive Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-037,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Drilling,Bit Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Weather,Poor Visibility,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Drilling,Lost Circulation,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Mechanical,Draw Works Failure,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Personnel,Crew Change,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Drilling,Well Control,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Logistics,Waiting on Materials,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Weather,Lightning,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Drilling,Well Control,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Mechanical,BOP Repair,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Weather,Poor Visibility,1,4.0,76666.0,1,0,0,1.0,0.0,76666.0,1.0,0.6456084210526316,4.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W001,R004,Drilling,Lost Circulation,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Logistics,Waiting on Cement,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Mechanical,BOP Repair,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W001,R004,Weather,Heavy Rain,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-001,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W003,R004,Mechanical,Draw Works Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-003,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Mechanical,Generator Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W011,R004,Mechanical,Rotary Table Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-011,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Drilling,Stuck Pipe,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Logistics,Delayed Helicopter,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Logistics,Waiting on Cement,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W012,R004,Logistics,Waiting on Materials,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-012,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Personnel,Medical Evacuation,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W014,R004,Weather,Heavy Rain,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-014,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W016,R004,Drilling,Well Control,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-016,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W023,R004,Mechanical,Generator Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-023,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Mechanical,Top Drive Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W025,R004,Weather,Strong Wind,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-025,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W026,R004,Logistics,Waiting on Materials,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-026,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W032,R004,Drilling,Bit Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W032,R004,Logistics,Delayed Helicopter,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W032,R004,Mechanical,Top Drive Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-032,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Logistics,Delayed Helicopter,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Logistics,Waiting on Materials,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W038,R004,Weather,Poor Visibility,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-038,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W042,R004,Logistics,Delayed Helicopter,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-042,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W045,R004,Mechanical,Generator Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W045,R004,Weather,Lightning,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-045,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Drilling,Bit Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W047,R004,Weather,Strong Wind,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-047,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W050,R004,Mechanical,Rotary Table Failure,1,2.0,40833.0,1,0,0,1.0,0.0,40833.0,1.0,0.3438568421052632,2.0,ATL-050,Atlantic Energy Guyana,Stabroek,Noble Don Taylor,Drillship,Noble
+W013,R003,Drilling,Bit Failure,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W013,R003,Logistics,Fuel Supply Delay,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W013,R003,Mechanical,Generator Failure,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-013,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W015,R003,Personnel,Safety Stand Down,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-015,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Drilling,Stuck Pipe,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Logistics,Delayed Helicopter,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Mechanical,Draw Works Failure,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Personnel,Medical Evacuation,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W020,R003,Weather,Lightning,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-020,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W035,R003,Drilling,Fishing Operation,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-035,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W035,R003,Logistics,Waiting on Cement,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-035,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Drilling,Bit Failure,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W044,R003,Weather,Strong Wind,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-044,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W046,R003,Drilling,Bit Failure,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-046,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W049,R003,Drilling,Well Control,1,2.0,40000.0,1,0,0,1.0,0.0,40000.0,1.0,0.3368421052631579,2.0,ATL-049,Atlantic Energy Guyana,Stabroek,Stena DrillMAX,Drillship,Stena Drilling
+W007,R001,Drilling,Stuck Pipe,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W007,R001,Personnel,Training,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-007,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Weather,High Waves,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W009,R001,Weather,Poor Visibility,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-009,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Drilling,Hole Cleaning,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Drilling,Stuck Pipe,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W017,R001,Drilling,Well Control,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-017,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W022,R001,Weather,High Waves,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-022,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W022,R001,Weather,Lightning,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-022,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Drilling,Hole Cleaning,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W034,R001,Logistics,Waiting on Boat,1,2.0,39583.0,1,0,0,1.0,0.0,39583.0,1.0,0.33333052631578947,2.0,ATL-034,Atlantic Energy Guyana,Stabroek,Noble Bob Douglas,Drillship,Noble
+W004,R002,Drilling,Bit Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W004,R002,Drilling,Fishing Operation,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W004,R002,Mechanical,Rotary Table Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W004,R002,Mechanical,Top Drive Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-004,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W005,R002,Weather,Poor Visibility,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-005,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Weather,Lightning,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W006,R002,Weather,Poor Visibility,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-006,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Logistics,Waiting on Boat,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Logistics,Waiting on Cement,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Personnel,Safety Stand Down,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W008,R002,Weather,Lightning,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-008,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Drilling,Bit Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Drilling,Fishing Operation,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W010,R002,Logistics,Waiting on Materials,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-010,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Personnel,Medical Evacuation,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W021,R002,Weather,Lightning,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-021,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W024,R002,Drilling,Bit Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-024,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W027,R002,Weather,High Waves,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W027,R002,Weather,Poor Visibility,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-027,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W028,R002,Drilling,Hole Cleaning,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-028,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W029,R002,Personnel,Medical Evacuation,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-029,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Drilling,Hole Cleaning,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Drilling,Stuck Pipe,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W030,R002,Mechanical,Generator Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-030,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Mechanical,Draw Works Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Weather,Heavy Rain,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Weather,High Waves,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W033,R002,Weather,Lightning,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-033,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Logistics,Fuel Supply Delay,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Logistics,Waiting on Boat,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W036,R002,Mechanical,Mud Pump Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-036,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Logistics,Delayed Helicopter,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W039,R002,Personnel,Safety Stand Down,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-039,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Mechanical,Mud Pump Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W040,R002,Mechanical,Power System Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-040,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Logistics,Delayed Helicopter,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W041,R002,Weather,Heavy Rain,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-041,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Drilling,Fishing Operation,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Drilling,Hole Cleaning,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Mechanical,Power System Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Mechanical,Top Drive Failure,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W043,R002,Personnel,Crew Change,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-043,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling
+W048,R002,Personnel,Safety Stand Down,1,2.0,38333.0,1,0,0,1.0,0.0,38333.0,1.0,0.3228042105263158,2.0,ATL-048,Atlantic Energy Guyana,Stabroek,Stena Carron,Drillship,Stena Drilling

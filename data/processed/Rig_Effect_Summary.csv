@@ -1,0 +1,5 @@
+Rig_ID,Rig_Name,Wells,Avg_ROP_ft_hr,Avg_Operational_Cost_per_Foot_USD,Avg_NPT_pct,Avg_Economic_Impact_per_Foot_USD,Positive_Rig_Well_Interactions,Negative_Rig_Well_Interactions,Mixed_Interactions,Strong_Rig_Well_Fit,Priority_Interventions,Positive_Interaction_pct,Negative_Interaction_pct,Priority_Intervention_pct
+R001,Noble Bob Douglas,6,33.30166666666667,788.025,13.236666666666666,925.5116666666667,3,2,1,3,2,50.0,33.33333333333333,33.33333333333333
+R002,Stena Carron,20,33.5475,755.171,12.383,876.2115,7,6,7,7,5,35.0,30.0,25.0
+R004,Noble Don Taylor,16,33.993125,781.1,11.876875,906.22125,1,3,12,1,3,6.25,18.75,18.75
+R003,Stena DrillMAX,8,33.75625,786.1675,13.3725,923.58375,0,0,8,0,2,0.0,0.0,25.0

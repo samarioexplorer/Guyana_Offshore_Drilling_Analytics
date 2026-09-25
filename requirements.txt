@@ -1,0 +1,14 @@
+# Guyana Offshore Drilling Analytics
+
+# Python dependencies
+
+#
+
+# Tested development environment:
+
+# Python 3.14.x
+
+pandas==3.0.3
+numpy==2.5.0
+Faker==40.26.0
+openpyxl==3.1.5

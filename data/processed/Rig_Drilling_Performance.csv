@@ -1,0 +1,5 @@
+Rig_ID,Rig_Name,Contractor,Rig_Type,Rig_Status,Year_Built,Day_Rate_USD,Wells_Drilled,Drilling_Days,Drilling_Start_Date,Drilling_End_Date,Total_Footage_ft,Total_Drilling_Hours,Average_ROP_ft_hr,Maximum_ROP_ft_hr,Total_Weather_Delay_hr,Total_Drilling_Cost_USD,Average_Daily_Footage_ft,Average_Daily_Cost_USD,Cost_per_Foot_USD,Cost_per_Drilling_Hour_USD,Average_Hourly_Footage_ft,Weather_Delay_pct,Rig_Age_Years
+R002,Stena Carron,Stena Drilling,Drillship,Active,2015,460000.0,20,442,2023-01-21,2025-01-01,383889.4,11455.94,33.54,53.2,399.0,258293934.08,868.53,584375.42,672.83,22546.73,33.51,3.37,10
+R004,Noble Don Taylor,Noble,Drillship,StandBy,2020,490000.0,16,318,2023-03-29,2025-01-05,301996.1,8873.07,33.96,52.53,270.0,211397181.03,949.67,664771.01,700.0,23824.58,34.04,2.95,5
+R003,Stena DrillMAX,Stena Drilling,Drillship,Maintenance,2018,480000.0,8,196,2023-06-16,2024-11-17,154500.2,4590.92,33.69,53.74,161.0,107400401.4,788.27,547961.23,695.15,23394.09,33.65,3.39,7
+R001,Noble Bob Douglas,Noble,Drillship,Active,2013,475000.0,6,174,2023-01-21,2024-11-22,111693.1,3350.83,33.34,50.4,159.0,77620939.53,641.91,446097.35,694.95,23164.69,33.33,4.53,12

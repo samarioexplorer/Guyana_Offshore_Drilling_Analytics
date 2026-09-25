@@ -1,0 +1,181 @@
+==============================================================================
+STAGE 2G.6B — ENGINEERING INTERPRETATION
+Well × Rig × Root Cause Analysis
+==============================================================================
+
+DATASET SUMMARY
+------------------------------------------------------------------------------
+NPT Events                         : 677
+NPT Hours                          : 4,008.0
+NPT Rig Cost (USD)                 : $79,204,408.00
+Deferred Production Impact (USD)  : $0.00
+Total Impact (USD)                 : $198,150,178.00
+Unique Wells                       : 50
+Unique Rigs                        : 4
+Root Cause combinations            : 113
+
+1. TOP 10 WELLS BY TOTAL IMPACT
+------------------------------------------------------------------------------
+Well_ID  NPT_Events  NPT_Hours  Total_Impact_USD  High_Events
+   W007          16      128.0         6815911.0            4
+   W040          21      130.0         6620110.0            1
+   W019          13      114.0         5561717.0            2
+   W036          19      108.0         5411508.0            2
+   W003          13       88.0         5225678.0            2
+   W011          16      104.0         5187621.0            1
+   W046          16      102.0         5032158.0            0
+   W013          20       96.0         4883822.0            0
+   W023          14       84.0         4828213.0            1
+   W010          16      106.0         4734861.0            2
+
+2. TOP 10 RIGS BY TOTAL IMPACT
+------------------------------------------------------------------------------
+Rig_ID  NPT_Events  NPT_Hours  Total_Impact_USD  High_Events
+  R002         282     1610.0        76560445.0           14
+  R004         199     1186.0        61470399.0           13
+  R003         116      694.0        34396458.0            8
+  R001          80      518.0        25722876.0            8
+
+3. TOP ROOT CAUSES
+------------------------------------------------------------------------------
+NPT_Category    NPT_Subcategory                  Root_Cause  NPT_Events  NPT_Hours  Total_Impact_USD  High_Events
+    Drilling      Hole Cleaning       Differential Sticking          11      104.0         4901437.0            3
+    Drilling   Lost Circulation       Formation Instability          14      100.0         4882950.0            1
+  Mechanical  Top Drive Failure Poor Preventive Maintenance           9       78.0         4520732.0            2
+  Mechanical  Top Drive Failure              Equipment Wear          11       78.0         4444086.0            1
+     Weather    Poor Visibility                  Heavy Rain           9       78.0         4182298.0            2
+    Drilling         Stuck Pipe       Differential Sticking          12       80.0         3977501.0            1
+   Logistics  Fuel Supply Delay           Customs Clearance          10       70.0         3927139.0            1
+    Drilling         Stuck Pipe         Unexpected Pressure          13       86.0         3913518.0            0
+    Drilling  Fishing Operation       Formation Instability          11       66.0         3534755.0            1
+   Logistics Delayed Helicopter           Customs Clearance           7       60.0         3437722.0            2
+     Weather    Poor Visibility                 Strong Wind           8       58.0         3311150.0            1
+     Weather          Lightning                   Lightning          16       66.0         3303321.0            0
+    Drilling       Well Control                    Bit Wear           7       54.0         3223917.0            2
+    Drilling        Bit Failure       Differential Sticking          11       62.0         3099059.0            0
+  Mechanical Draw Works Failure           Hydraulic Failure           8       62.0         3096667.0            1
+
+4. TOP WELL × RIG × ROOT CAUSE HOTSPOTS
+------------------------------------------------------------------------------
+Well_ID Rig_ID NPT_Category    NPT_Subcategory                  Root_Cause  NPT_Events  NPT_Hours  Total_Impact_USD  High_Events
+   W003   R004   Mechanical  Top Drive Failure              Equipment Wear           2       30.0         1964180.0            1
+   W011   R004   Mechanical  Top Drive Failure Poor Preventive Maintenance           1       24.0         1549746.0            1
+   W045   R004    Logistics  Fuel Supply Delay           Customs Clearance           1       24.0         1534504.0            1
+   W035   R003     Drilling        Bit Failure       Differential Sticking           3       24.0         1175122.0            0
+   W031   R002   Mechanical         BOP Repair              Equipment Wear           1       24.0         1403802.0            1
+   W010   R002      Weather         Heavy Rain                 Strong Wind           1       24.0         1275283.0            1
+   W037   R002    Logistics Delayed Helicopter           Customs Clearance           1       24.0         1223810.0            1
+   W002   R001   Mechanical  Generator Failure              Equipment Wear           2       20.0         1225246.0            1
+   W019   R003      Weather          Lightning                  High Waves           1       24.0         1154701.0            1
+   W035   R003      Weather         High Waves                 Strong Wind           2       24.0          923922.0            1
+   W026   R004      Weather         Heavy Rain                       Storm           1       24.0         1104657.0            1
+   W040   R002      Weather    Poor Visibility                  Heavy Rain           2       18.0         1189172.0            0
+   W015   R003    Logistics Delayed Helicopter           Customs Clearance           1       18.0         1243515.0            1
+   W003   R004     Drilling      Hole Cleaning       Differential Sticking           1       18.0         1230862.0            1
+   W013   R003     Drilling   Lost Circulation       Formation Instability           2       18.0         1133606.0            0
+
+5. ROOT CAUSE DISTRIBUTION
+------------------------------------------------------------------------------
+NPT_Category    NPT_Subcategory                  Root_Cause  Affected_Wells  Affected_Rigs  Well_Coverage_Pct  Rig_Coverage_Pct Observed_Distribution  Total_Impact_USD
+    Drilling      Hole Cleaning       Differential Sticking              11              4               22.0             100.0             RIG-BROAD         4901437.0
+    Drilling   Lost Circulation       Formation Instability              12              4               24.0             100.0             RIG-BROAD         4882950.0
+  Mechanical  Top Drive Failure Poor Preventive Maintenance               9              4               18.0             100.0             RIG-BROAD         4520732.0
+  Mechanical  Top Drive Failure              Equipment Wear               8              3               16.0              75.0             RIG-BROAD         4444086.0
+     Weather    Poor Visibility                  Heavy Rain               8              4               16.0             100.0             RIG-BROAD         4182298.0
+    Drilling         Stuck Pipe       Differential Sticking              11              3               22.0              75.0             RIG-BROAD         3977501.0
+   Logistics  Fuel Supply Delay           Customs Clearance              10              4               20.0             100.0             RIG-BROAD         3927139.0
+    Drilling         Stuck Pipe         Unexpected Pressure              10              4               20.0             100.0             RIG-BROAD         3913518.0
+    Drilling  Fishing Operation       Formation Instability              10              4               20.0             100.0             RIG-BROAD         3534755.0
+   Logistics Delayed Helicopter           Customs Clearance               7              3               14.0              75.0             RIG-BROAD         3437722.0
+     Weather    Poor Visibility                 Strong Wind               7              4               14.0             100.0             RIG-BROAD         3311150.0
+     Weather          Lightning                   Lightning              13              4               26.0             100.0             RIG-BROAD         3303321.0
+    Drilling       Well Control                    Bit Wear               7              3               14.0              75.0             RIG-BROAD         3223917.0
+    Drilling        Bit Failure       Differential Sticking               9              3               18.0              75.0             RIG-BROAD         3099059.0
+  Mechanical Draw Works Failure           Hydraulic Failure               8              4               16.0             100.0             RIG-BROAD         3096667.0
+    Drilling         Stuck Pipe                    Bit Wear               9              3               18.0              75.0             RIG-BROAD         2978603.0
+    Drilling      Hole Cleaning         Unexpected Pressure              12              4               24.0             100.0             RIG-BROAD         2884582.0
+  Mechanical         BOP Repair              Equipment Wear               6              2               12.0              50.0          CONCENTRATED         2779241.0
+    Drilling        Bit Failure         Unexpected Pressure               8              2               16.0              50.0          CONCENTRATED         2726099.0
+     Weather         Heavy Rain                 Strong Wind               7              3               14.0              75.0             RIG-BROAD         2719878.0
+
+6. WELL VS RIG CONCENTRATION
+------------------------------------------------------------------------------
+Dimension  Entities  Total_Impact_USD  Total_NPT_Hours  Total_NPT_Events Top_Entity  Top_Entity_Impact_USD  Top_Entity_Impact_Pct
+     Well        50       198150178.0           4008.0               677       W007              6815911.0               3.439770
+      Rig         4       198150178.0           4008.0               677       R002             76560445.0              38.637586
+
+Interpretation rule: a higher top-entity concentration means the impact is more concentrated in that dimension. This is evidence of association, not proof of causation.
+
+7. PARETO — WELLS
+------------------------------------------------------------------------------
+ Rank Well_ID  Total_Impact_USD  Cumulative_Impact_Pct
+    1    W007         6815911.0               3.439770
+    2    W040         6620110.0               6.780726
+    3    W019         5561717.0               9.587545
+    4    W036         5411508.0              12.318559
+    5    W003         5225678.0              14.955790
+    6    W011         5187621.0              17.573815
+    7    W046         5032158.0              20.113382
+    8    W013         4883822.0              22.578090
+    9    W023         4828213.0              25.014733
+   10    W010         4734861.0              27.404265
+   11    W009         4669372.0              29.760746
+   12    W001         4605541.0              32.085014
+   13    W020         4565483.0              34.389066
+   14    W045         4553567.0              36.687104
+   15    W002         4546361.0              38.981506
+
+8. PARETO — RIGS
+------------------------------------------------------------------------------
+ Rank Rig_ID  Total_Impact_USD  Cumulative_Impact_Pct
+    1   R002        76560445.0              38.637586
+    2   R004        61470399.0              69.659712
+    3   R003        34396458.0              87.018495
+    4   R001        25722876.0             100.000000
+
+9. PARETO — ROOT CAUSES
+------------------------------------------------------------------------------
+ Rank NPT_Category    NPT_Subcategory                  Root_Cause  Total_Impact_USD  Cumulative_Impact_Pct
+    1     Drilling      Hole Cleaning       Differential Sticking         4901437.0               2.473597
+    2     Drilling   Lost Circulation       Formation Instability         4882950.0               4.937864
+    3   Mechanical  Top Drive Failure Poor Preventive Maintenance         4520732.0               7.219332
+    4   Mechanical  Top Drive Failure              Equipment Wear         4444086.0               9.462119
+    5      Weather    Poor Visibility                  Heavy Rain         4182298.0              11.572790
+    6     Drilling         Stuck Pipe       Differential Sticking         3977501.0              13.580106
+    7    Logistics  Fuel Supply Delay           Customs Clearance         3927139.0              15.562006
+    8     Drilling         Stuck Pipe         Unexpected Pressure         3913518.0              17.537032
+    9     Drilling  Fishing Operation       Formation Instability         3534755.0              19.320909
+   10    Logistics Delayed Helicopter           Customs Clearance         3437722.0              21.055817
+   11      Weather    Poor Visibility                 Strong Wind         3311150.0              22.726847
+   12      Weather          Lightning                   Lightning         3303321.0              24.393927
+   13     Drilling       Well Control                    Bit Wear         3223917.0              26.020933
+   14     Drilling        Bit Failure       Differential Sticking         3099059.0              27.584929
+   15   Mechanical Draw Works Failure           Hydraulic Failure         3096667.0              29.147716
+   16     Drilling         Stuck Pipe                    Bit Wear         2978603.0              30.650921
+   17     Drilling      Hole Cleaning         Unexpected Pressure         2884582.0              32.106677
+   18   Mechanical         BOP Repair              Equipment Wear         2779241.0              33.509270
+   19     Drilling        Bit Failure         Unexpected Pressure         2726099.0              34.885044
+   20      Weather         Heavy Rain                 Strong Wind         2719878.0              36.257679
+
+10. ENGINEERING INTERPRETATION
+------------------------------------------------------------------------------
+- Highest-impact root-cause combination: Drilling / Hole Cleaning / Differential Sticking ($4,901,437).
+- Highest-impact well: W007 ($6,815,911).
+- Highest-impact rig: R002 ($76,560,445).
+- Highest-priority Well × Rig × Root Cause hotspot: W003 × R004 × Mechanical / Top Drive Failure / Equipment Wear.
+- Review repeated causes across multiple wells as potential systemic/process signals.
+- Review causes concentrated on one rig across several wells as potential rig/equipment/maintenance signals.
+- Review causes concentrated on one well as potential well-condition/formation/operational-context signals.
+- Before assigning causal responsibility, compare exposure, well section, activity, operating environment, maintenance history, and rig utilization.
+
+11. ENGINEERING ACTION FRAMEWORK
+------------------------------------------------------------------------------
+A. CRITICAL: investigate high-impact + high-severity hotspots first.
+B. RIG REVIEW: compare the same root cause across rigs.
+C. WELL REVIEW: compare the same rig across different wells.
+D. SYSTEMIC REVIEW: prioritize causes affecting many wells/rigs.
+E. PREVENTION: link corrective actions to maintenance, BHA, drilling parameters, logistics, weather planning and crew readiness.
+
+==============================================================================
+STAGE 2G.6B COMPLETE
+==============================================================================

@@ -1,0 +1,23 @@
+Metric,Value
+Monthly rows,26
+Date range,2023-01 to 2025-02
+Best ROP month,2023-01
+Worst ROP month,2025-01
+Highest footage month,2024-05
+Lowest footage month,2025-01
+Best drilling cost/ft month,2023-01
+Worst drilling cost/ft month,2025-01
+Highest NPT hours month,2024-05
+Lowest NPT hours month,2023-01
+Highest NPT% month,2025-01
+Lowest NPT% month,2023-01
+Highest economic impact month,2024-05
+Lowest economic impact month,2025-01
+Improving months,7
+Stable months,12
+Deteriorating months,6
+NPT-only months,1
+Anomalous months,5
+High NPT exposure months,7
+Weather stress months,7
+High economic impact months,7

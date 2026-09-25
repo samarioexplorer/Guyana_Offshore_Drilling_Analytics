@@ -1,0 +1,22 @@
+Root_Cause,NPT_Events,NPT_Hours,NPT_Hours_pct,Cumulative_NPT_Hours,Cumulative_NPT_Hours_pct,NPT_Cost_USD,Deferred_Cost_USD,Total_Impact_USD,Rank_NPT_Hours,Pareto_Flag
+Differential Sticking,50,342.0,8.53,342.0,8.53,6730406.0,9877084.0,16607490.0,1,Pareto Priority
+Unexpected Pressure,62,328.0,8.18,670.0,16.72,6457480.0,8558772.0,15016252.0,2,Pareto Priority
+Formation Instability,56,292.0,7.29,962.0,24.0,5766235.0,8661225.0,14427460.0,3,Pareto Priority
+Bit Wear,45,290.0,7.24,1252.0,31.24,5756659.0,9253995.0,15010654.0,4,Pareto Priority
+Equipment Wear,44,288.0,7.19,1540.0,38.42,5687071.0,9574439.0,15261510.0,5,Pareto Priority
+Poor Preventive Maintenance,38,252.0,6.29,1792.0,44.71,4968739.0,7406682.0,12375421.0,6,Pareto Priority
+Strong Wind,33,236.0,5.89,2028.0,50.6,4696660.0,7322734.0,12019394.0,7,Pareto Priority
+Heavy Rain,32,224.0,5.59,2252.0,56.19,4422909.0,6442090.0,10864999.0,8,Pareto Priority
+Hydraulic Failure,31,210.0,5.24,2462.0,61.43,4110827.0,5871467.0,9982294.0,9,Pareto Priority
+Electrical Failure,37,200.0,4.99,2662.0,66.42,3949990.0,5829465.0,9779455.0,10,Pareto Priority
+Customs Clearance,30,186.0,4.64,2848.0,71.06,3684576.0,6551381.0,10235957.0,11,Pareto Priority
+Lightning,40,176.0,4.39,3024.0,75.45,3468737.0,5652127.0,9120864.0,12,Pareto Priority
+High Waves,29,164.0,4.09,3188.0,79.54,3219991.0,4813904.0,8033895.0,13,Pareto Priority
+Late Supply Vessel,30,152.0,3.79,3340.0,83.33,3009993.0,4577029.0,7587022.0,14,Remaining Causes
+Port Congestion,21,150.0,3.74,3490.0,87.08,2966663.0,4323581.0,7290244.0,15,Remaining Causes
+Storm,27,142.0,3.54,3632.0,90.62,2851241.0,3993610.0,6844851.0,16,Remaining Causes
+Material Shortage,23,118.0,2.94,3750.0,93.56,2330411.0,3585281.0,5915692.0,17,Remaining Causes
+OEM Defect,21,102.0,2.54,3852.0,96.11,2009160.0,2824275.0,4833435.0,18,Remaining Causes
+Medical Emergency,8,60.0,1.5,3912.0,97.6,1209165.0,1833297.0,3042462.0,19,Remaining Causes
+Training Requirement,14,54.0,1.35,3966.0,98.95,1062079.0,1228986.0,2291065.0,20,Remaining Causes
+Crew Rotation,6,42.0,1.05,4008.0,100.0,845416.0,764346.0,1609762.0,21,Remaining Causes

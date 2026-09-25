@@ -1,0 +1,517 @@
+Well_ID,NPT_Category,NPT_Subcategory,NPT_Events,NPT_Hours,NPT_Cost_USD,Deferred_Production_USD,Total_Impact_USD,Low_Events,Medium_Events,High_Events,Hotspot_Score
+W002,Mechanical,Generator Failure,3,32.0,633333.0,0.0,633333.0,1,1,1,341.3331536842105
+W003,Mechanical,Top Drive Failure,2,30.0,612500.0,0.0,612500.0,0,1,1,386.8421052631579
+W011,Mechanical,Top Drive Failure,2,30.0,612500.0,0.0,612500.0,0,1,1,386.8421052631579
+W001,Weather,High Waves,4,30.0,612499.0,0.0,612499.0,1,3,0,270.7890315789474
+W035,Weather,High Waves,3,30.0,600000.0,0.0,600000.0,0,2,1,353.6842105263158
+W009,Drilling,Lost Circulation,2,30.0,593750.0,0.0,593750.0,0,1,1,375.0
+W028,Drilling,Stuck Pipe,2,30.0,575000.0,0.0,575000.0,0,1,1,363.1578947368421
+W045,Logistics,Fuel Supply Delay,2,26.0,530833.0,0.0,530833.0,1,0,1,232.44897684210525
+W021,Logistics,Waiting on Cement,3,26.0,498333.0,0.0,498333.0,1,1,1,218.21739789473685
+W031,Mechanical,BOP Repair,2,26.0,498333.0,0.0,498333.0,1,0,1,218.21739789473685
+W018,Logistics,Fuel Supply Delay,1,24.0,490000.0,0.0,490000.0,0,0,1,297.0947368421053
+W026,Weather,Heavy Rain,1,24.0,490000.0,0.0,490000.0,0,0,1,297.0947368421053
+W050,Drilling,Stuck Pipe,3,24.0,489999.0,0.0,489999.0,1,2,0,165.0522947368421
+W019,Weather,Lightning,1,24.0,480000.0,0.0,480000.0,0,0,1,291.0315789473684
+W035,Drilling,Bit Failure,3,24.0,480000.0,0.0,480000.0,0,3,0,194.02105263157895
+W044,Weather,Poor Visibility,2,24.0,480000.0,0.0,480000.0,0,1,1,242.5263157894737
+W010,Weather,Heavy Rain,1,24.0,460000.0,0.0,460000.0,0,0,1,278.90526315789475
+W037,Logistics,Delayed Helicopter,1,24.0,460000.0,0.0,460000.0,0,0,1,278.90526315789475
+W032,Weather,Lightning,2,22.0,449166.0,0.0,449166.0,1,0,1,166.42782315789475
+W013,Drilling,Lost Circulation,4,22.0,440000.0,0.0,440000.0,2,2,0,122.27368421052631
+W019,Drilling,Stuck Pipe,3,22.0,440000.0,0.0,440000.0,1,2,0,135.85964912280704
+W007,Logistics,Fuel Supply Delay,2,22.0,435416.0,0.0,435416.0,1,0,1,161.33308631578947
+W030,Mechanical,Power System Failure,3,22.0,421666.0,0.0,421666.0,1,2,0,130.19862456140353
+W036,Mechanical,Draw Works Failure,2,22.0,421666.0,0.0,421666.0,1,0,1,156.23834947368422
+W041,Drilling,Hole Cleaning,3,22.0,421666.0,0.0,421666.0,2,0,1,130.19862456140353
+W024,Drilling,Stuck Pipe,4,22.0,421665.0,0.0,421665.0,3,1,0,97.64873684210527
+W048,Mechanical,Top Drive Failure,4,22.0,421665.0,0.0,421665.0,2,2,0,117.17848421052632
+W011,Drilling,Hole Cleaning,2,20.0,408333.0,0.0,408333.0,0,2,0,137.54374736842107
+W020,Mechanical,BOP Repair,2,20.0,400000.0,0.0,400000.0,1,0,1,134.73684210526315
+W022,Weather,Poor Visibility,3,20.0,395833.0,0.0,395833.0,1,2,0,111.11101754385965
+W010,Weather,Lightning,2,20.0,383333.0,0.0,383333.0,1,0,1,129.1226947368421
+W021,Mechanical,Power System Failure,3,20.0,383333.0,0.0,383333.0,1,2,0,107.6022456140351
+W003,Drilling,Hole Cleaning,1,18.0,367500.0,0.0,367500.0,0,0,1,167.1157894736842
+W012,Drilling,Bit Failure,1,18.0,367500.0,0.0,367500.0,0,0,1,167.1157894736842
+W012,Logistics,Waiting on Boat,2,18.0,367500.0,0.0,367500.0,0,2,0,111.41052631578947
+W023,Personnel,Crew Change,1,18.0,367500.0,0.0,367500.0,0,0,1,167.1157894736842
+W026,Personnel,Safety Stand Down,1,18.0,367500.0,0.0,367500.0,0,0,1,167.1157894736842
+W042,Weather,Poor Visibility,1,18.0,367500.0,0.0,367500.0,0,0,1,167.1157894736842
+W045,Weather,Poor Visibility,1,18.0,367500.0,0.0,367500.0,0,0,1,167.1157894736842
+W047,Personnel,Crew Change,1,18.0,367500.0,0.0,367500.0,0,0,1,167.1157894736842
+W050,Logistics,Waiting on Cement,2,18.0,367500.0,0.0,367500.0,0,2,0,111.41052631578947
+W015,Logistics,Delayed Helicopter,1,18.0,360000.0,0.0,360000.0,0,0,1,163.70526315789473
+W019,Drilling,Well Control,1,18.0,360000.0,0.0,360000.0,0,0,1,163.70526315789473
+W035,Drilling,Stuck Pipe,1,18.0,360000.0,0.0,360000.0,0,0,1,163.70526315789473
+W049,Drilling,Hole Cleaning,1,18.0,360000.0,0.0,360000.0,0,0,1,163.70526315789473
+W007,Drilling,Well Control,1,18.0,356250.0,0.0,356250.0,0,0,1,162.0
+W007,Mechanical,Mud Pump Failure,1,18.0,356250.0,0.0,356250.0,0,0,1,162.0
+W007,Mechanical,Top Drive Failure,1,18.0,356250.0,0.0,356250.0,0,0,1,162.0
+W022,Drilling,Hole Cleaning,2,18.0,356250.0,0.0,356250.0,0,2,0,108.0
+W034,Drilling,Fishing Operation,1,18.0,356250.0,0.0,356250.0,0,0,1,162.0
+W034,Mechanical,Mud Pump Failure,1,18.0,356250.0,0.0,356250.0,0,0,1,162.0
+W006,Drilling,Bit Failure,1,18.0,345000.0,0.0,345000.0,0,0,1,156.8842105263158
+W027,Drilling,Fishing Operation,1,18.0,345000.0,0.0,345000.0,0,0,1,156.8842105263158
+W036,Mechanical,Power System Failure,1,18.0,345000.0,0.0,345000.0,0,0,1,156.8842105263158
+W039,Weather,Lightning,2,18.0,345000.0,0.0,345000.0,0,2,0,104.58947368421053
+W040,Mechanical,Generator Failure,1,18.0,345000.0,0.0,345000.0,0,0,1,156.8842105263158
+W040,Weather,Poor Visibility,2,18.0,345000.0,0.0,345000.0,0,2,0,104.58947368421053
+W043,Logistics,Delayed Helicopter,2,18.0,345000.0,0.0,345000.0,0,2,0,104.58947368421053
+W043,Mechanical,Mud Pump Failure,1,18.0,345000.0,0.0,345000.0,0,0,1,156.8842105263158
+W048,Mechanical,Rotary Table Failure,1,18.0,345000.0,0.0,345000.0,0,0,1,156.8842105263158
+W032,Mechanical,Draw Works Failure,2,16.0,326666.0,0.0,326666.0,0,2,0,88.02789052631579
+W046,Drilling,Fishing Operation,2,16.0,320000.0,0.0,320000.0,0,2,0,86.23157894736842
+W027,Weather,Lightning,2,16.0,306666.0,0.0,306666.0,1,1,0,61.97881263157895
+W030,Mechanical,BOP Repair,2,16.0,306666.0,0.0,306666.0,0,2,0,82.63841684210526
+W036,Drilling,Lost Circulation,3,16.0,306666.0,0.0,306666.0,1,2,0,68.86534736842106
+W037,Drilling,Stuck Pipe,2,16.0,306666.0,0.0,306666.0,1,1,0,61.97881263157895
+W032,Weather,Heavy Rain,2,14.0,285833.0,0.0,285833.0,0,2,0,67.39641263157895
+W038,Mechanical,Rotary Table Failure,2,14.0,285833.0,0.0,285833.0,0,2,0,67.39641263157895
+W045,Weather,Heavy Rain,2,14.0,285833.0,0.0,285833.0,1,1,0,50.54730947368421
+W011,Weather,Lightning,3,14.0,285832.0,0.0,285832.0,2,1,0,44.930784561403506
+W020,Mechanical,Rotary Table Failure,3,14.0,280000.0,0.0,280000.0,2,1,0,44.014035087719286
+W049,Drilling,Fishing Operation,2,14.0,280000.0,0.0,280000.0,0,2,0,66.02105263157894
+W007,Weather,Lightning,2,14.0,277083.0,0.0,277083.0,0,2,0,65.3332547368421
+W022,Logistics,Waiting on Materials,2,14.0,277083.0,0.0,277083.0,0,2,0,65.3332547368421
+W033,Mechanical,Rotary Table Failure,2,14.0,268333.0,0.0,268333.0,1,1,0,47.452572631578946
+W039,Weather,Heavy Rain,2,14.0,268333.0,0.0,268333.0,1,1,0,47.452572631578946
+W040,Weather,Heavy Rain,2,14.0,268333.0,0.0,268333.0,0,2,0,63.27009684210526
+W011,Drilling,Bit Failure,1,12.0,245000.0,0.0,245000.0,0,1,0,49.515789473684215
+W014,Drilling,Stuck Pipe,1,12.0,245000.0,0.0,245000.0,0,1,0,49.515789473684215
+W018,Drilling,Stuck Pipe,1,12.0,245000.0,0.0,245000.0,0,1,0,49.515789473684215
+W018,Weather,Poor Visibility,2,12.0,245000.0,0.0,245000.0,0,2,0,49.515789473684215
+W023,Weather,Lightning,1,12.0,245000.0,0.0,245000.0,0,1,0,49.515789473684215
+W025,Drilling,Lost Circulation,1,12.0,245000.0,0.0,245000.0,0,1,0,49.515789473684215
+W025,Drilling,Stuck Pipe,2,12.0,245000.0,0.0,245000.0,0,2,0,49.515789473684215
+W026,Weather,High Waves,1,12.0,245000.0,0.0,245000.0,0,1,0,49.515789473684215
+W032,Logistics,Fuel Supply Delay,2,12.0,245000.0,0.0,245000.0,0,2,0,49.515789473684215
+W003,Mechanical,Power System Failure,3,12.0,244999.0,0.0,244999.0,2,1,0,33.01039157894737
+W026,Mechanical,Draw Works Failure,3,12.0,244999.0,0.0,244999.0,2,1,0,33.01039157894737
+W013,Drilling,Fishing Operation,2,12.0,240000.0,0.0,240000.0,1,1,0,36.37894736842105
+W019,Logistics,Waiting on Cement,1,12.0,240000.0,0.0,240000.0,0,1,0,48.50526315789474
+W019,Mechanical,Top Drive Failure,1,12.0,240000.0,0.0,240000.0,0,1,0,48.50526315789474
+W035,Weather,Strong Wind,1,12.0,240000.0,0.0,240000.0,0,1,0,48.50526315789474
+W046,Logistics,Waiting on Materials,1,12.0,240000.0,0.0,240000.0,0,1,0,48.50526315789474
+W046,Weather,Heavy Rain,1,12.0,240000.0,0.0,240000.0,0,1,0,48.50526315789474
+W002,Drilling,Bit Failure,2,12.0,237500.0,0.0,237500.0,0,2,0,48.0
+W009,Logistics,Waiting on Cement,1,12.0,237500.0,0.0,237500.0,0,1,0,48.0
+W007,Drilling,Hole Cleaning,2,12.0,237499.0,0.0,237499.0,1,1,0,35.99984842105263
+W009,Weather,Heavy Rain,2,12.0,237499.0,0.0,237499.0,1,1,0,35.99984842105263
+W004,Drilling,Stuck Pipe,1,12.0,230000.0,0.0,230000.0,0,1,0,46.48421052631579
+W004,Mechanical,Power System Failure,1,12.0,230000.0,0.0,230000.0,0,1,0,46.48421052631579
+W024,Logistics,Waiting on Materials,1,12.0,230000.0,0.0,230000.0,0,1,0,46.48421052631579
+W030,Logistics,Waiting on Cement,2,12.0,230000.0,0.0,230000.0,0,2,0,46.48421052631579
+W030,Weather,High Waves,1,12.0,230000.0,0.0,230000.0,0,1,0,46.48421052631579
+W033,Logistics,Delayed Helicopter,1,12.0,230000.0,0.0,230000.0,0,1,0,46.48421052631579
+W033,Mechanical,BOP Repair,1,12.0,230000.0,0.0,230000.0,0,1,0,46.48421052631579
+W040,Drilling,Fishing Operation,1,12.0,230000.0,0.0,230000.0,0,1,0,46.48421052631579
+W043,Drilling,Stuck Pipe,2,12.0,230000.0,0.0,230000.0,0,2,0,46.48421052631579
+W004,Weather,Lightning,3,12.0,229999.0,0.0,229999.0,2,1,0,30.98933894736842
+W006,Logistics,Waiting on Cement,2,12.0,229999.0,0.0,229999.0,1,1,0,34.86300631578947
+W010,Mechanical,Rotary Table Failure,2,12.0,229999.0,0.0,229999.0,1,1,0,34.86300631578947
+W028,Weather,Strong Wind,3,12.0,229999.0,0.0,229999.0,2,1,0,30.98933894736842
+W033,Weather,Poor Visibility,2,12.0,229999.0,0.0,229999.0,1,1,0,34.86300631578947
+W037,Weather,Poor Visibility,2,12.0,229999.0,0.0,229999.0,1,1,0,34.86300631578947
+W040,Drilling,Bit Failure,2,12.0,229999.0,0.0,229999.0,1,1,0,34.86300631578947
+W001,Weather,Lightning,2,10.0,204166.0,0.0,204166.0,1,1,0,25.78938947368421
+W023,Drilling,Well Control,2,10.0,204166.0,0.0,204166.0,1,1,0,25.78938947368421
+W023,Mechanical,Mud Pump Failure,2,10.0,204166.0,0.0,204166.0,1,1,0,25.78938947368421
+W047,Drilling,Lost Circulation,2,10.0,204166.0,0.0,204166.0,1,1,0,25.78938947368421
+W050,Weather,High Waves,2,10.0,204166.0,0.0,204166.0,1,1,0,25.78938947368421
+W003,Logistics,Waiting on Boat,3,10.0,204165.0,0.0,204165.0,3,0,0,17.192842105263157
+W018,Weather,Heavy Rain,3,10.0,204165.0,0.0,204165.0,3,0,0,17.192842105263157
+W013,Personnel,Safety Stand Down,2,10.0,200000.0,0.0,200000.0,1,1,0,25.263157894736842
+W013,Weather,Heavy Rain,2,10.0,200000.0,0.0,200000.0,1,1,0,25.263157894736842
+W015,Logistics,Waiting on Cement,2,10.0,200000.0,0.0,200000.0,1,1,0,25.263157894736842
+W046,Mechanical,Top Drive Failure,2,10.0,200000.0,0.0,200000.0,1,1,0,25.263157894736842
+W046,Weather,Poor Visibility,2,10.0,200000.0,0.0,200000.0,1,1,0,25.263157894736842
+W002,Drilling,Hole Cleaning,2,10.0,197916.0,0.0,197916.0,1,1,0,24.999915789473686
+W002,Logistics,Fuel Supply Delay,2,10.0,197916.0,0.0,197916.0,1,1,0,24.999915789473686
+W009,Mechanical,Top Drive Failure,2,10.0,197916.0,0.0,197916.0,1,1,0,24.999915789473686
+W022,Weather,Strong Wind,3,10.0,197915.0,0.0,197915.0,3,0,0,16.666526315789476
+W008,Drilling,Bit Failure,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W010,Drilling,Lost Circulation,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W010,Weather,Strong Wind,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W024,Mechanical,BOP Repair,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W027,Drilling,Stuck Pipe,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W028,Mechanical,Top Drive Failure,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W033,Mechanical,Generator Failure,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W036,Drilling,Hole Cleaning,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W039,Drilling,Hole Cleaning,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W039,Logistics,Waiting on Materials,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W040,Drilling,Stuck Pipe,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W040,Weather,High Waves,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W041,Drilling,Bit Failure,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W041,Mechanical,Power System Failure,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W041,Weather,Lightning,2,10.0,191666.0,0.0,191666.0,1,1,0,24.210442105263155
+W001,Logistics,Fuel Supply Delay,2,8.0,163333.0,0.0,163333.0,1,1,0,16.50522947368421
+W016,Mechanical,Generator Failure,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W016,Weather,Strong Wind,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W018,Drilling,Hole Cleaning,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W025,Weather,High Waves,2,8.0,163333.0,0.0,163333.0,1,1,0,16.50522947368421
+W026,Drilling,Bit Failure,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W038,Drilling,Lost Circulation,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W042,Drilling,Fishing Operation,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W042,Weather,Lightning,2,8.0,163333.0,0.0,163333.0,1,1,0,16.50522947368421
+W045,Drilling,Lost Circulation,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W047,Drilling,Hole Cleaning,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W047,Mechanical,BOP Repair,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W047,Mechanical,Power System Failure,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W050,Drilling,Lost Circulation,1,8.0,163333.0,0.0,163333.0,0,1,0,22.006972631578947
+W011,Weather,Poor Visibility,2,8.0,163332.0,0.0,163332.0,2,0,0,11.003418947368422
+W023,Mechanical,Draw Works Failure,2,8.0,163332.0,0.0,163332.0,2,0,0,11.003418947368422
+W038,Drilling,Hole Cleaning,2,8.0,163332.0,0.0,163332.0,2,0,0,11.003418947368422
+W013,Weather,Strong Wind,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W015,Drilling,Lost Circulation,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W015,Mechanical,Generator Failure,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W019,Drilling,Lost Circulation,3,8.0,160000.0,0.0,160000.0,3,0,0,10.778947368421052
+W019,Logistics,Fuel Supply Delay,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W020,Weather,High Waves,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W044,Drilling,Lost Circulation,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W044,Weather,High Waves,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W046,Mechanical,Draw Works Failure,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W046,Mechanical,Mud Pump Failure,1,8.0,160000.0,0.0,160000.0,0,1,0,21.557894736842105
+W049,Logistics,Waiting on Boat,2,8.0,160000.0,0.0,160000.0,2,0,0,10.778947368421052
+W002,Mechanical,Draw Works Failure,1,8.0,158333.0,0.0,158333.0,0,1,0,21.333288421052632
+W007,Mechanical,BOP Repair,1,8.0,158333.0,0.0,158333.0,0,1,0,21.333288421052632
+W017,Logistics,Fuel Supply Delay,1,8.0,158333.0,0.0,158333.0,0,1,0,21.333288421052632
+W022,Mechanical,Draw Works Failure,1,8.0,158333.0,0.0,158333.0,0,1,0,21.333288421052632
+W034,Weather,High Waves,1,8.0,158333.0,0.0,158333.0,0,1,0,21.333288421052632
+W005,Mechanical,BOP Repair,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W005,Personnel,Medical Evacuation,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W005,Weather,Strong Wind,2,8.0,153333.0,0.0,153333.0,1,1,0,15.494703157894737
+W006,Mechanical,Draw Works Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W006,Mechanical,Mud Pump Failure,2,8.0,153333.0,0.0,153333.0,1,1,0,15.494703157894737
+W006,Mechanical,Top Drive Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W008,Drilling,Lost Circulation,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W010,Drilling,Hole Cleaning,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W010,Mechanical,Generator Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W021,Logistics,Waiting on Materials,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W021,Mechanical,Draw Works Failure,2,8.0,153333.0,0.0,153333.0,1,1,0,15.494703157894737
+W024,Mechanical,Power System Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W027,Drilling,Bit Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W028,Mechanical,Power System Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W029,Drilling,Lost Circulation,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W029,Mechanical,Draw Works Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W029,Mechanical,Mud Pump Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W029,Weather,Heavy Rain,2,8.0,153333.0,0.0,153333.0,1,1,0,15.494703157894737
+W030,Personnel,Safety Stand Down,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W033,Weather,Strong Wind,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W036,Drilling,Stuck Pipe,2,8.0,153333.0,0.0,153333.0,1,1,0,15.494703157894737
+W037,Drilling,Bit Failure,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W040,Logistics,Delayed Helicopter,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W041,Drilling,Fishing Operation,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W041,Logistics,Fuel Supply Delay,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W043,Drilling,Lost Circulation,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W043,Mechanical,Draw Works Failure,2,8.0,153333.0,0.0,153333.0,1,1,0,15.494703157894737
+W048,Drilling,Hole Cleaning,1,8.0,153333.0,0.0,153333.0,0,1,0,20.659604210526314
+W006,Logistics,Delayed Helicopter,2,8.0,153332.0,0.0,153332.0,2,0,0,10.329734736842106
+W001,Drilling,Well Control,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W001,Mechanical,Top Drive Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W003,Mechanical,BOP Repair,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W003,Personnel,Safety Stand Down,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W011,Personnel,Training,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W012,Mechanical,Power System Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W012,Mechanical,Top Drive Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W014,Drilling,Fishing Operation,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W016,Logistics,Waiting on Cement,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W016,Mechanical,Top Drive Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W016,Weather,Lightning,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W018,Mechanical,Top Drive Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W023,Logistics,Waiting on Boat,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W023,Personnel,Medical Evacuation,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W025,Drilling,Bit Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W026,Logistics,Waiting on Boat,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W032,Mechanical,Rotary Table Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W038,Drilling,Well Control,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W038,Mechanical,BOP Repair,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W038,Weather,Lightning,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W042,Mechanical,Rotary Table Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W042,Mechanical,Top Drive Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W045,Logistics,Waiting on Materials,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W047,Drilling,Well Control,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W050,Mechanical,Power System Failure,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W050,Personnel,Medical Evacuation,1,6.0,122500.0,0.0,122500.0,0,1,0,12.378947368421054
+W011,Drilling,Lost Circulation,2,6.0,122499.0,0.0,122499.0,2,0,0,6.189423157894737
+W016,Weather,Heavy Rain,2,6.0,122499.0,0.0,122499.0,2,0,0,6.189423157894737
+W032,Weather,High Waves,2,6.0,122499.0,0.0,122499.0,2,0,0,6.189423157894737
+W038,Weather,High Waves,2,6.0,122499.0,0.0,122499.0,2,0,0,6.189423157894737
+W013,Drilling,Hole Cleaning,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W013,Drilling,Stuck Pipe,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W013,Logistics,Waiting on Cement,2,6.0,120000.0,0.0,120000.0,2,0,0,6.063157894736842
+W013,Weather,Lightning,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W015,Drilling,Fishing Operation,2,6.0,120000.0,0.0,120000.0,2,0,0,6.063157894736842
+W015,Drilling,Hole Cleaning,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W015,Mechanical,BOP Repair,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W019,Logistics,Delayed Helicopter,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W020,Drilling,Fishing Operation,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W020,Drilling,Lost Circulation,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W020,Logistics,Fuel Supply Delay,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W044,Drilling,Hole Cleaning,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W044,Logistics,Fuel Supply Delay,2,6.0,120000.0,0.0,120000.0,2,0,0,6.063157894736842
+W046,Logistics,Fuel Supply Delay,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W046,Weather,Strong Wind,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W049,Logistics,Fuel Supply Delay,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W049,Mechanical,Top Drive Failure,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W049,Weather,Heavy Rain,1,6.0,120000.0,0.0,120000.0,0,1,0,12.126315789473685
+W002,Drilling,Stuck Pipe,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W002,Mechanical,Mud Pump Failure,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W007,Mechanical,Draw Works Failure,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W009,Logistics,Fuel Supply Delay,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W009,Mechanical,Rotary Table Failure,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W009,Weather,Lightning,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W009,Weather,Strong Wind,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W017,Drilling,Bit Failure,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W017,Logistics,Waiting on Cement,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W017,Mechanical,Draw Works Failure,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W017,Mechanical,Top Drive Failure,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W017,Personnel,Safety Stand Down,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W017,Weather,Strong Wind,1,6.0,118750.0,0.0,118750.0,0,1,0,12.0
+W034,Mechanical,Top Drive Failure,2,6.0,118749.0,0.0,118749.0,2,0,0,6.0
+W005,Mechanical,Power System Failure,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W005,Mechanical,Top Drive Failure,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W005,Weather,Heavy Rain,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W006,Mechanical,Rotary Table Failure,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W008,Drilling,Fishing Operation,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W021,Drilling,Lost Circulation,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W021,Drilling,Well Control,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W021,Mechanical,Mud Pump Failure,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W021,Weather,Strong Wind,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W024,Drilling,Lost Circulation,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W027,Logistics,Waiting on Materials,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W028,Drilling,Lost Circulation,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W028,Weather,High Waves,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W029,Logistics,Waiting on Materials,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W029,Personnel,Crew Change,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W029,Weather,Poor Visibility,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W030,Drilling,Well Control,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W033,Drilling,Fishing Operation,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W036,Drilling,Well Control,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W036,Weather,Strong Wind,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W039,Mechanical,Mud Pump Failure,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W040,Logistics,Waiting on Cement,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W043,Weather,Poor Visibility,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W048,Drilling,Lost Circulation,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W048,Drilling,Stuck Pipe,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W048,Mechanical,Mud Pump Failure,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W048,Weather,High Waves,1,6.0,115000.0,0.0,115000.0,0,1,0,12.0
+W029,Drilling,Hole Cleaning,2,6.0,114999.0,0.0,114999.0,2,0,0,6.0
+W031,Drilling,Stuck Pipe,2,6.0,114999.0,0.0,114999.0,2,0,0,6.0
+W040,Drilling,Well Control,2,6.0,114999.0,0.0,114999.0,2,0,0,6.0
+W043,Drilling,Well Control,2,6.0,114999.0,0.0,114999.0,2,0,0,6.0
+W001,Drilling,Fishing Operation,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W001,Drilling,Hole Cleaning,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W001,Logistics,Delayed Helicopter,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W001,Logistics,Waiting on Materials,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W001,Mechanical,Rotary Table Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W003,Weather,Strong Wind,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W011,Logistics,Fuel Supply Delay,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W012,Drilling,Fishing Operation,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W012,Mechanical,Rotary Table Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W014,Logistics,Waiting on Cement,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W014,Mechanical,Draw Works Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W014,Mechanical,Power System Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W014,Mechanical,Rotary Table Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W016,Logistics,Waiting on Boat,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W016,Weather,Poor Visibility,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W018,Drilling,Fishing Operation,2,4.0,81666.0,0.0,81666.0,2,0,0,4.0
+W018,Drilling,Well Control,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W018,Mechanical,Generator Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W018,Weather,Strong Wind,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W023,Drilling,Fishing Operation,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W023,Mechanical,Top Drive Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W023,Personnel,Safety Stand Down,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W025,Drilling,Well Control,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W025,Mechanical,BOP Repair,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W025,Weather,Heavy Rain,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W026,Drilling,Stuck Pipe,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W026,Mechanical,Mud Pump Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W032,Personnel,Safety Stand Down,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W038,Mechanical,Power System Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W038,Weather,Heavy Rain,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W042,Drilling,Lost Circulation,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W045,Mechanical,BOP Repair,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W047,Drilling,Fishing Operation,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W047,Mechanical,Draw Works Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W047,Mechanical,Mud Pump Failure,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W047,Weather,Heavy Rain,1,4.0,81666.0,0.0,81666.0,1,0,0,4.0
+W013,Mechanical,BOP Repair,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W015,Drilling,Stuck Pipe,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W015,Drilling,Well Control,2,4.0,80000.0,0.0,80000.0,2,0,0,4.0
+W015,Logistics,Fuel Supply Delay,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W019,Drilling,Hole Cleaning,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W020,Drilling,Bit Failure,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W020,Drilling,Hole Cleaning,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W020,Mechanical,Mud Pump Failure,2,4.0,80000.0,0.0,80000.0,2,0,0,4.0
+W020,Mechanical,Power System Failure,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W020,Weather,Heavy Rain,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W035,Drilling,Well Control,2,4.0,80000.0,0.0,80000.0,2,0,0,4.0
+W044,Drilling,Well Control,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W044,Logistics,Delayed Helicopter,2,4.0,80000.0,0.0,80000.0,2,0,0,4.0
+W046,Drilling,Hole Cleaning,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W046,Drilling,Stuck Pipe,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W046,Logistics,Delayed Helicopter,1,4.0,80000.0,0.0,80000.0,1,0,0,4.0
+W002,Weather,Poor Visibility,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W007,Mechanical,Generator Failure,2,4.0,79166.0,0.0,79166.0,2,0,0,4.0
+W007,Weather,Strong Wind,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W009,Drilling,Bit Failure,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W009,Mechanical,Draw Works Failure,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W017,Drilling,Fishing Operation,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W034,Drilling,Bit Failure,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W034,Logistics,Waiting on Materials,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W034,Mechanical,Draw Works Failure,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W034,Mechanical,Rotary Table Failure,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W034,Weather,Poor Visibility,1,4.0,79166.0,0.0,79166.0,1,0,0,4.0
+W004,Drilling,Lost Circulation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W004,Weather,Heavy Rain,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W005,Drilling,Hole Cleaning,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W005,Drilling,Stuck Pipe,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W005,Logistics,Delayed Helicopter,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W005,Logistics,Waiting on Materials,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W005,Weather,Lightning,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W006,Drilling,Fishing Operation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W006,Logistics,Waiting on Materials,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W006,Weather,High Waves,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W008,Mechanical,BOP Repair,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W008,Weather,Poor Visibility,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W010,Drilling,Stuck Pipe,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W010,Drilling,Well Control,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W021,Mechanical,BOP Repair,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W024,Drilling,Well Control,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W024,Weather,Poor Visibility,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W027,Mechanical,Generator Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W028,Drilling,Fishing Operation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W028,Logistics,Delayed Helicopter,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W028,Personnel,Crew Change,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W028,Weather,Lightning,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W029,Drilling,Well Control,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W029,Mechanical,Top Drive Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W029,Weather,Strong Wind,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W030,Drilling,Fishing Operation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W030,Mechanical,Top Drive Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W031,Drilling,Bit Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W031,Drilling,Lost Circulation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W031,Logistics,Waiting on Materials,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W031,Mechanical,Top Drive Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W031,Personnel,Safety Stand Down,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W031,Weather,High Waves,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W031,Weather,Poor Visibility,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W033,Drilling,Lost Circulation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W033,Logistics,Fuel Supply Delay,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W036,Drilling,Bit Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W036,Logistics,Delayed Helicopter,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W036,Mechanical,BOP Repair,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W036,Mechanical,Generator Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W037,Drilling,Fishing Operation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W037,Mechanical,Generator Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W037,Mechanical,Top Drive Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W039,Drilling,Bit Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W039,Weather,Poor Visibility,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W040,Drilling,Lost Circulation,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W040,Mechanical,Draw Works Failure,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W040,Personnel,Crew Change,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W041,Drilling,Well Control,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W043,Logistics,Waiting on Materials,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W043,Weather,Lightning,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W048,Drilling,Well Control,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W048,Mechanical,BOP Repair,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W048,Weather,Poor Visibility,1,4.0,76666.0,0.0,76666.0,1,0,0,4.0
+W001,Drilling,Lost Circulation,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W001,Logistics,Waiting on Cement,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W001,Mechanical,BOP Repair,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W001,Weather,Heavy Rain,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W003,Mechanical,Draw Works Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W011,Mechanical,Generator Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W011,Mechanical,Rotary Table Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W012,Drilling,Stuck Pipe,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W012,Logistics,Delayed Helicopter,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W012,Logistics,Waiting on Cement,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W012,Logistics,Waiting on Materials,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W014,Personnel,Medical Evacuation,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W014,Weather,Heavy Rain,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W016,Drilling,Well Control,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W023,Mechanical,Generator Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W025,Mechanical,Top Drive Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W025,Weather,Strong Wind,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W026,Logistics,Waiting on Materials,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W032,Drilling,Bit Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W032,Logistics,Delayed Helicopter,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W032,Mechanical,Top Drive Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W038,Logistics,Delayed Helicopter,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W038,Logistics,Waiting on Materials,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W038,Weather,Poor Visibility,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W042,Logistics,Delayed Helicopter,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W045,Mechanical,Generator Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W045,Weather,Lightning,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W047,Drilling,Bit Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W047,Weather,Strong Wind,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W050,Mechanical,Rotary Table Failure,1,2.0,40833.0,0.0,40833.0,1,0,0,2.0
+W013,Drilling,Bit Failure,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W013,Logistics,Fuel Supply Delay,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W013,Mechanical,Generator Failure,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W015,Personnel,Safety Stand Down,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W020,Drilling,Stuck Pipe,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W020,Logistics,Delayed Helicopter,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W020,Mechanical,Draw Works Failure,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W020,Personnel,Medical Evacuation,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W020,Weather,Lightning,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W035,Drilling,Fishing Operation,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W035,Logistics,Waiting on Cement,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W044,Drilling,Bit Failure,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W044,Weather,Strong Wind,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W046,Drilling,Bit Failure,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W049,Drilling,Well Control,1,2.0,40000.0,0.0,40000.0,1,0,0,2.0
+W007,Drilling,Stuck Pipe,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W007,Personnel,Training,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W009,Weather,High Waves,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W009,Weather,Poor Visibility,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W017,Drilling,Hole Cleaning,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W017,Drilling,Stuck Pipe,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W017,Drilling,Well Control,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W022,Weather,High Waves,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W022,Weather,Lightning,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W034,Drilling,Hole Cleaning,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W034,Logistics,Waiting on Boat,1,2.0,39583.0,0.0,39583.0,1,0,0,2.0
+W004,Drilling,Bit Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W004,Drilling,Fishing Operation,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W004,Mechanical,Rotary Table Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W004,Mechanical,Top Drive Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W005,Weather,Poor Visibility,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W006,Weather,Lightning,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W006,Weather,Poor Visibility,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W008,Logistics,Waiting on Boat,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W008,Logistics,Waiting on Cement,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W008,Personnel,Safety Stand Down,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W008,Weather,Lightning,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W010,Drilling,Bit Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W010,Drilling,Fishing Operation,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W010,Logistics,Waiting on Materials,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W021,Personnel,Medical Evacuation,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W021,Weather,Lightning,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W024,Drilling,Bit Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W027,Weather,High Waves,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W027,Weather,Poor Visibility,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W028,Drilling,Hole Cleaning,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W029,Personnel,Medical Evacuation,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W030,Drilling,Hole Cleaning,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W030,Drilling,Stuck Pipe,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W030,Mechanical,Generator Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W033,Mechanical,Draw Works Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W033,Weather,Heavy Rain,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W033,Weather,High Waves,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W033,Weather,Lightning,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W036,Logistics,Fuel Supply Delay,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W036,Logistics,Waiting on Boat,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W036,Mechanical,Mud Pump Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W039,Logistics,Delayed Helicopter,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W039,Personnel,Safety Stand Down,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W040,Mechanical,Mud Pump Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W040,Mechanical,Power System Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W041,Logistics,Delayed Helicopter,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W041,Weather,Heavy Rain,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W043,Drilling,Fishing Operation,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W043,Drilling,Hole Cleaning,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W043,Mechanical,Power System Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W043,Mechanical,Top Drive Failure,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W043,Personnel,Crew Change,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
+W048,Personnel,Safety Stand Down,1,2.0,38333.0,0.0,38333.0,1,0,0,2.0
