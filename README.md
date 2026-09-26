@@ -45,7 +45,7 @@ The solution establishes consistent project-wide KPIs, identifies performance va
 
 ```text
 SOURCE DATA
-Source Data → Python Data Layer → SQL Analytical Layer → Power BI Semantic Model → Decision Support → QA / Release Control
+Well · Rig · Drilling · NPT
         │
         ▼
 PYTHON
