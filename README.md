@@ -4,7 +4,7 @@
 
 **Power BI · SQL · Python · DAX · Operational Analytics**
 
-A portfolio-grade drilling analytics solution that transforms well, rig, drilling-performance and NPT data into an integrated decision-support framework.
+An end-to-end drilling analytics solution designed as a professional engineering portfolio project that transforms well, rig, drilling-performance and NPT data into an integrated decision-support framework.
 
 **Operational Data → Performance → NPT → Root Cause → Economics → Operational Action**
 
@@ -27,17 +27,17 @@ The solution establishes consistent project-wide KPIs, identifies performance va
 
 ## 2. Key Project Results
 
-| KPI | Validated Result |
-|---|---:|
-| Total Footage | **952,078.8 ft** |
-| NPT Hours | **4,008 hr** |
-| NPT Events | **677** |
-| Average ROP | **33.67 ft/hr** |
-| NPT / Day | **6.02 hr/day** |
-| Cost / Foot | **$687.67/ft** |
-| Drilling Days | **666** |
-| Rig Economic Impact | **$198.15M** |
-| NPT Economic Impact | **$79.20M** |
+| KPI                 |       Validated Result |
+| ------------------- | ---------------------: |
+| Total Footage       | **952,078.8 ft** |
+| NPT Hours           |     **4,008 hr** |
+| NPT Events          |          **677** |
+| Average ROP         |  **33.67 ft/hr** |
+| NPT / Day           |  **6.02 hr/day** |
+| Cost / Foot         |   **$687.67/ft** |
+| Drilling Days       |          **666** |
+| Rig Economic Impact |     **$198.15M** |
+| NPT Economic Impact |      **$79.20M** |
 
 ---
 
@@ -45,7 +45,7 @@ The solution establishes consistent project-wide KPIs, identifies performance va
 
 ```text
 SOURCE DATA
-Well · Rig · Drilling · NPT
+Source Data → Python Data Layer → SQL Analytical Layer → Power BI Semantic Model → Decision Support → QA / Release Control
         │
         ▼
 PYTHON
@@ -110,24 +110,31 @@ SQL converts operational records into reconciled benchmarks, NPT diagnostics and
 ## 6. Core KPI Definitions
 
 ### Average ROP
+
 `Total Footage ÷ Drilling Hours`
 
 ### NPT Hours
+
 `SUM(NPT Duration)`
 
 ### NPT / Day
+
 `NPT Hours ÷ Drilling Days`
 
 ### Cost / Foot
+
 `Drilling Cost ÷ Total Footage`
 
 ### Rig Economic Impact
-`SUM(Rig Economic Impact)`
+
+`Rig Cost + Deferred Production Value`
 
 ### NPT Event Count
+
 `DISTINCTCOUNT(NPT_ID)`
 
 ### Drilling Days
+
 Distinct active drilling dates.
 
 ---
@@ -166,15 +173,19 @@ This allows an NPT event to be traced from hours to cause, rig/well context, dir
 ## 8. Power BI Dashboard
 
 ### 01 — Executive Operational Command Center
+
 Executive status, operational risks, root causes, improvement initiatives and scenario context.
 
 ### 02 — Operational Performance
+
 Drilling efficiency, ROP, footage, drilling time and NPT performance.
 
 ### 03 — NPT & Root Cause Analysis
+
 NPT hours, events, categories, root causes, trends and economic consequence.
 
 ### 04 — Rig Performance
+
 Rig-level benchmarking across ROP, NPT, footage, cost and economic impact.
 
 ---
@@ -244,17 +255,20 @@ This project demonstrates an integrated capability across:
 - Economic-impact analysis
 - Analytical QA and reconciliation
 
-The project is positioned as an **engineering analytics solution**, rather than only as a visualization exercise.
+The project integrates engineering context with analytics engineering, semantic modeling and decision-support design.
 
 ---
 
 ## 12. Repository Structure
+
+The repository is organized into distinct layers for data generation, analytical preparation, validation, SQL analysis, Power BI delivery and portfolio documentation.
 
 ```text
 Guyana_Offshore_Drilling_Analytics/
 │
 ├── README.md
 ├── LICENSE
+├── .gitignore
 ├── requirements.txt
 │
 ├── data/
@@ -264,34 +278,34 @@ Guyana_Offshore_Drilling_Analytics/
 ├── database/
 │   └── guyana_drilling.db
 │
-├── python/
-│   ├── data_generation/
-│   ├── transformation/
-│   └── validation/
+├── scripts/
+│   ├── 01 - data generation/
+│   ├── 02 - data preparation/
+│   ├── 03 - validation/
+│   └── Readme.txt
 │
 ├── sql/
-│   ├── analysis/
-│   ├── benchmarking/
-│   └── outputs/
+│
+├── outputs/
 │
 ├── powerbi/
-│   └── Guyana_Offshore_Drilling_Analytics.pbix
+│   └── Guyana_Offshore_Drilling_Executive_Intelligence.pbix
 │
-├── powerpoint/
-│   └── Guyana_Offshore_Drilling_Analytics_Final_Portfolio.pptx
-│
-├── qa/
-│   ├── screenshots/
-│   ├── validation/
-│   └── reports/
-│
-└── docs/
-    ├── data_dictionary.md
-    ├── metric_definitions.md
-    └── methodology.md
+└── PowerPoint/
+    └── Guyana_Offshore_Drilling_Analytics_Final_Portfolio.pptx
 ```
 
----
+### Repository layers
+
+* **`data/`** — raw source datasets and processed analytical outputs
+* **`database/`** — SQLite analytical database
+* **`scripts/01 - data generation/`** — synthetic operational data generation and database creation
+* **`scripts/02 - data preparation/`** — Python transformation, SQL analytics and performance analysis
+* **`scripts/03 - validation/`** — KPI monitoring, semantic-model validation, Power BI QA and release-readiness analysis
+* **`sql/`** — SQL starter and analytical documentation
+* **`outputs/`** — generated analytical and validation workbooks
+* **`powerbi/`** — final Power BI semantic model and executive dashboard
+* **`PowerPoint/`** — final portfolio presentation
 
 ## 13. Portfolio Deliverables
 
@@ -304,8 +318,6 @@ Guyana_Offshore_Drilling_Analytics/
 - QA evidence
 - Metric definitions
 - Methodology documentation
-
----
 
 ## 14. Final Portfolio Statement
 
