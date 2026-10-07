@@ -263,7 +263,6 @@ The project integrates engineering context with analytics engineering, semantic 
 
 The repository is organized into distinct layers for data generation, analytical preparation, validation, SQL analysis, Power BI delivery and portfolio documentation.
 
-```text
 Guyana_Offshore_Drilling_Analytics/
 │
 ├── README.md
@@ -272,55 +271,55 @@ Guyana_Offshore_Drilling_Analytics/
 ├── requirements.txt
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── database/
-│   └── guyana_drilling.db
-│
-├── scripts/
-│   ├── 01 - data generation/
-│   ├── 02 - data preparation/
-│   ├── 03 - validation/
-│   └── Readme.txt
-│
-├── sql/
-│
-├── outputs/
+│   └── raw/
+│       ├── Dim_Date.xlsx
+│       ├── Dim_KPI.xlsx
+│       ├── Dim_Rig.xlsx
+│       ├── Dim_Scenario.xlsx
+│       ├── Dim_Well.xlsx
+│       ├── Fact_Drilling_Daily_Report.xlsx
+│       ├── Fact_NPT.xlsx
+│       └── Fact_NPT_PBI.xlsx
 │
 ├── powerbi/
 │   └── Guyana_Offshore_Drilling_Executive_Intelligence.pbix
 │
-└── PowerPoint/
-    └── Guyana_Offshore_Drilling_Analytics_Final_Portfolio.pptx
-```
+├── PowerPoint/
+│   └── Guyana_Offshore_Drilling_Analytics_Final_Portfolio.pptx
+│
+├── scripts/
+│   ├── 01 - data generation/
+│   ├── 02 - data preparation/
+│   └── 03 - validation/
+│
+└── sql/
+    ├── Project01_Guyana_Drilling_SQL_Starter.sql
+    └── Readme.txt
 
 ### Repository layers
 
-* **`data/`** — raw source datasets and processed analytical outputs
-* **`database/`** — SQLite analytical database
+* **`data/raw`** — reproducible source and Power BI input datasets
 * **`scripts/01 - data generation/`** — synthetic operational data generation and database creation
 * **`scripts/02 - data preparation/`** — Python transformation, SQL analytics and performance analysis
 * **`scripts/03 - validation/`** — KPI monitoring, semantic-model validation, Power BI QA and release-readiness analysis
-* **`sql/`** — SQL starter and analytical documentation
-* **`outputs/`** — generated analytical and validation workbooks
-* **`powerbi/`** — final Power BI semantic model and executive dashboard
+* **`sql/`** — SQL starter and benchmarking layer
+* **`powerbi/`** — final Power BI executive intelligence model
 * **`PowerPoint/`** — final portfolio presentation
 
 ## 13. Portfolio Deliverables
 
-- Final Power BI dashboard
-- Final 20-slide portfolio presentation
-- Technical appendix
-- SQLite analytical database
-- Python processing / validation layer
+- Final Power BI executive intelligence model
+- Final portfolio presentation
+- Python generation / preparation / validation pipeline
 - SQL analytical and benchmarking layer
-- QA evidence
-- Metric definitions
-- Methodology documentation
+- Reproducible source datasets
+- Engineering KPI and metric definitions
+- QA and validation methodology
 
 ## 14. Final Portfolio Statement
 
 **Guyana Offshore Drilling Analytics** demonstrates how operational drilling data can be transformed into a validated decision-support product connecting performance, downtime, root cause, economic consequence and operational action.
+
+Generated SQLite databases, processed analytical extracts and intermediate Excel/CSV outputs are intentionally excluded from version control. They can be recreated through the Python and SQL pipeline.
 
 **Drilling / Wells Engineering · Operational Performance Analytics · Power BI / SQL / Python / DAX**

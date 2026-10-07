@@ -1,5 +1,0 @@
-Rig_ID,Rig_Name,Contractor,Rig_Type,NPT_Events,NPT_Hours,NPT_Cost_USD,Deferred_Cost_USD,Total_Impact_USD,Average_NPT_Duration_hr,Drilling_Hours,Drilling_Footage_ft,Drilling_Cost_USD,Wells_Drilled,NPT_Days,NPT_Hours_per_Well,NPT_Events_per_Well,NPT_Hours_pct,NPT_Cost_per_Foot_USD,NPT_Cost_pct_Drilling_Cost
-R001,Noble Bob Douglas,Noble,Drillship,80,518.0,10252062.0,15470814.0,25722876.0,6.48,3350.83,111693.1,77620939.53,6,21.58,86.33,13.33,13.39,91.79,13.21
-R002,Stena Carron,Stena Drilling,Drillship,282,1610.0,30858241.0,45702204.0,76560445.0,5.71,11455.94,383889.4,258293934.08,20,67.08,80.5,14.1,12.32,80.38,11.95
-R003,Stena DrillMAX,Stena Drilling,Drillship,116,694.0,13880000.0,20516458.0,34396458.0,5.98,4590.92,154500.2,107400401.4,8,28.92,86.75,14.5,13.13,89.84,12.92
-R004,Noble Don Taylor,Noble,Drillship,199,1186.0,24214105.0,37256294.0,61470399.0,5.96,8873.07,301996.1,211397181.03,16,49.42,74.12,12.44,11.79,80.18,11.45

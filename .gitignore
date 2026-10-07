@@ -104,10 +104,11 @@ dist/
 
 # ------------------------------------------------------------
 
-# Local database / runtime files
+# Local / generated database files
 
 # ------------------------------------------------------------
 
+*.db
 *.sqlite
 *.sqlite3
 *.db-journal
@@ -127,15 +128,12 @@ dist/
 
 # ------------------------------------------------------------
 
-# Local generated outputs
+# Generated analytical outputs
 
 # ------------------------------------------------------------
 
-# Uncomment these only if generated outputs should NOT be versioned:
-
-# outputs/
-
-# data/processed/
+outputs/
+data/processed/
 
 # ------------------------------------------------------------
 
